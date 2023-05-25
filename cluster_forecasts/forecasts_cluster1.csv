@@ -1,0 +1,3241 @@
+Country,ds,final_prediction
+Afghanistan,1950-01-01,
+Angola,1950-01-01,
+Benin,1950-01-01,
+Bhutan,1950-01-01,
+Burkina Faso,1950-01-01,
+Burundi,1950-01-01,
+Cambodia,1950-01-01,
+Cameroon,1950-01-01,
+Central African Republic,1950-01-01,
+Chad,1950-01-01,
+Comoros,1950-01-01,
+Cote d'Ivoire,1950-01-01,
+Democratic Republic of Congo,1950-01-01,
+Djibouti,1950-01-01,
+Equatorial Guinea,1950-01-01,
+Eritrea,1950-01-01,
+Eswatini,1950-01-01,
+Ethiopia,1950-01-01,
+Gambia,1950-01-01,
+Guinea,1950-01-01,
+Guinea-Bissau,1950-01-01,
+Haiti,1950-01-01,
+Laos,1950-01-01,
+Lesotho,1950-01-01,
+Liberia,1950-01-01,
+Madagascar,1950-01-01,
+Malawi,1950-01-01,
+Mali,1950-01-01,
+Mozambique,1950-01-01,
+Nepal,1950-01-01,
+Niger,1950-01-01,
+Nigeria,1950-01-01,
+Rwanda,1950-01-01,
+Senegal,1950-01-01,
+Sierra Leone,1950-01-01,
+Somalia,1950-01-01,
+South Sudan,1950-01-01,
+Sudan,1950-01-01,
+Tanzania,1950-01-01,
+Timor,1950-01-01,
+Togo,1950-01-01,
+Uganda,1950-01-01,
+Western Sahara,1950-01-01,
+Yemen,1950-01-01,
+Zambia,1950-01-01,
+Afghanistan,1951-01-01,
+Angola,1951-01-01,
+Benin,1951-01-01,
+Bhutan,1951-01-01,
+Burkina Faso,1951-01-01,
+Burundi,1951-01-01,
+Cambodia,1951-01-01,
+Cameroon,1951-01-01,
+Central African Republic,1951-01-01,
+Chad,1951-01-01,
+Comoros,1951-01-01,
+Cote d'Ivoire,1951-01-01,
+Democratic Republic of Congo,1951-01-01,
+Djibouti,1951-01-01,
+Equatorial Guinea,1951-01-01,
+Eritrea,1951-01-01,
+Eswatini,1951-01-01,
+Ethiopia,1951-01-01,
+Gambia,1951-01-01,
+Guinea,1951-01-01,
+Guinea-Bissau,1951-01-01,
+Haiti,1951-01-01,
+Laos,1951-01-01,
+Lesotho,1951-01-01,
+Liberia,1951-01-01,
+Madagascar,1951-01-01,
+Malawi,1951-01-01,
+Mali,1951-01-01,
+Mozambique,1951-01-01,
+Nepal,1951-01-01,
+Niger,1951-01-01,
+Nigeria,1951-01-01,
+Rwanda,1951-01-01,
+Senegal,1951-01-01,
+Sierra Leone,1951-01-01,
+Somalia,1951-01-01,
+South Sudan,1951-01-01,
+Sudan,1951-01-01,
+Tanzania,1951-01-01,
+Timor,1951-01-01,
+Togo,1951-01-01,
+Uganda,1951-01-01,
+Western Sahara,1951-01-01,
+Yemen,1951-01-01,
+Zambia,1951-01-01,
+Afghanistan,1952-01-01,
+Angola,1952-01-01,
+Benin,1952-01-01,
+Bhutan,1952-01-01,
+Burkina Faso,1952-01-01,
+Burundi,1952-01-01,
+Cambodia,1952-01-01,
+Cameroon,1952-01-01,
+Central African Republic,1952-01-01,
+Chad,1952-01-01,
+Comoros,1952-01-01,
+Cote d'Ivoire,1952-01-01,
+Democratic Republic of Congo,1952-01-01,
+Djibouti,1952-01-01,
+Equatorial Guinea,1952-01-01,
+Eritrea,1952-01-01,
+Eswatini,1952-01-01,
+Ethiopia,1952-01-01,
+Gambia,1952-01-01,
+Guinea,1952-01-01,
+Guinea-Bissau,1952-01-01,
+Haiti,1952-01-01,
+Laos,1952-01-01,
+Lesotho,1952-01-01,
+Liberia,1952-01-01,
+Madagascar,1952-01-01,
+Malawi,1952-01-01,
+Mali,1952-01-01,
+Mozambique,1952-01-01,
+Nepal,1952-01-01,
+Niger,1952-01-01,
+Nigeria,1952-01-01,
+Rwanda,1952-01-01,
+Senegal,1952-01-01,
+Sierra Leone,1952-01-01,
+Somalia,1952-01-01,
+South Sudan,1952-01-01,
+Sudan,1952-01-01,
+Tanzania,1952-01-01,
+Timor,1952-01-01,
+Togo,1952-01-01,
+Uganda,1952-01-01,
+Western Sahara,1952-01-01,
+Yemen,1952-01-01,
+Zambia,1952-01-01,
+Afghanistan,1953-01-01,
+Angola,1953-01-01,
+Benin,1953-01-01,
+Bhutan,1953-01-01,
+Burkina Faso,1953-01-01,
+Burundi,1953-01-01,
+Cambodia,1953-01-01,
+Cameroon,1953-01-01,
+Central African Republic,1953-01-01,
+Chad,1953-01-01,
+Comoros,1953-01-01,
+Cote d'Ivoire,1953-01-01,
+Democratic Republic of Congo,1953-01-01,
+Djibouti,1953-01-01,
+Equatorial Guinea,1953-01-01,
+Eritrea,1953-01-01,
+Eswatini,1953-01-01,
+Ethiopia,1953-01-01,
+Gambia,1953-01-01,
+Guinea,1953-01-01,
+Guinea-Bissau,1953-01-01,
+Haiti,1953-01-01,
+Laos,1953-01-01,
+Lesotho,1953-01-01,
+Liberia,1953-01-01,
+Madagascar,1953-01-01,
+Malawi,1953-01-01,
+Mali,1953-01-01,
+Mozambique,1953-01-01,
+Nepal,1953-01-01,
+Niger,1953-01-01,
+Nigeria,1953-01-01,
+Rwanda,1953-01-01,
+Senegal,1953-01-01,
+Sierra Leone,1953-01-01,
+Somalia,1953-01-01,
+South Sudan,1953-01-01,
+Sudan,1953-01-01,
+Tanzania,1953-01-01,
+Timor,1953-01-01,
+Togo,1953-01-01,
+Uganda,1953-01-01,
+Western Sahara,1953-01-01,
+Yemen,1953-01-01,
+Zambia,1953-01-01,
+Afghanistan,1954-01-01,
+Angola,1954-01-01,
+Benin,1954-01-01,
+Bhutan,1954-01-01,
+Burkina Faso,1954-01-01,
+Burundi,1954-01-01,
+Cambodia,1954-01-01,
+Cameroon,1954-01-01,
+Central African Republic,1954-01-01,
+Chad,1954-01-01,
+Comoros,1954-01-01,
+Cote d'Ivoire,1954-01-01,
+Democratic Republic of Congo,1954-01-01,
+Djibouti,1954-01-01,
+Equatorial Guinea,1954-01-01,
+Eritrea,1954-01-01,
+Eswatini,1954-01-01,
+Ethiopia,1954-01-01,
+Gambia,1954-01-01,
+Guinea,1954-01-01,
+Guinea-Bissau,1954-01-01,
+Haiti,1954-01-01,
+Laos,1954-01-01,
+Lesotho,1954-01-01,
+Liberia,1954-01-01,
+Madagascar,1954-01-01,
+Malawi,1954-01-01,
+Mali,1954-01-01,
+Mozambique,1954-01-01,
+Nepal,1954-01-01,
+Niger,1954-01-01,
+Nigeria,1954-01-01,
+Rwanda,1954-01-01,
+Senegal,1954-01-01,
+Sierra Leone,1954-01-01,
+Somalia,1954-01-01,
+South Sudan,1954-01-01,
+Sudan,1954-01-01,
+Tanzania,1954-01-01,
+Timor,1954-01-01,
+Togo,1954-01-01,
+Uganda,1954-01-01,
+Western Sahara,1954-01-01,
+Yemen,1954-01-01,
+Zambia,1954-01-01,
+Afghanistan,1955-01-01,
+Angola,1955-01-01,
+Benin,1955-01-01,
+Bhutan,1955-01-01,
+Burkina Faso,1955-01-01,
+Burundi,1955-01-01,
+Cambodia,1955-01-01,
+Cameroon,1955-01-01,
+Central African Republic,1955-01-01,
+Chad,1955-01-01,
+Comoros,1955-01-01,
+Cote d'Ivoire,1955-01-01,
+Democratic Republic of Congo,1955-01-01,
+Djibouti,1955-01-01,
+Equatorial Guinea,1955-01-01,
+Eritrea,1955-01-01,
+Eswatini,1955-01-01,
+Ethiopia,1955-01-01,
+Gambia,1955-01-01,
+Guinea,1955-01-01,
+Guinea-Bissau,1955-01-01,
+Haiti,1955-01-01,
+Laos,1955-01-01,
+Lesotho,1955-01-01,
+Liberia,1955-01-01,
+Madagascar,1955-01-01,
+Malawi,1955-01-01,
+Mali,1955-01-01,
+Mozambique,1955-01-01,
+Nepal,1955-01-01,
+Niger,1955-01-01,
+Nigeria,1955-01-01,
+Rwanda,1955-01-01,
+Senegal,1955-01-01,
+Sierra Leone,1955-01-01,
+Somalia,1955-01-01,
+South Sudan,1955-01-01,
+Sudan,1955-01-01,
+Tanzania,1955-01-01,
+Timor,1955-01-01,
+Togo,1955-01-01,
+Uganda,1955-01-01,
+Western Sahara,1955-01-01,
+Yemen,1955-01-01,
+Zambia,1955-01-01,
+Afghanistan,1956-01-01,
+Angola,1956-01-01,
+Benin,1956-01-01,
+Bhutan,1956-01-01,
+Burkina Faso,1956-01-01,
+Burundi,1956-01-01,
+Cambodia,1956-01-01,
+Cameroon,1956-01-01,
+Central African Republic,1956-01-01,
+Chad,1956-01-01,
+Comoros,1956-01-01,
+Cote d'Ivoire,1956-01-01,
+Democratic Republic of Congo,1956-01-01,
+Djibouti,1956-01-01,
+Equatorial Guinea,1956-01-01,
+Eritrea,1956-01-01,
+Eswatini,1956-01-01,
+Ethiopia,1956-01-01,
+Gambia,1956-01-01,
+Guinea,1956-01-01,
+Guinea-Bissau,1956-01-01,
+Haiti,1956-01-01,
+Laos,1956-01-01,
+Lesotho,1956-01-01,
+Liberia,1956-01-01,
+Madagascar,1956-01-01,
+Malawi,1956-01-01,
+Mali,1956-01-01,
+Mozambique,1956-01-01,
+Nepal,1956-01-01,
+Niger,1956-01-01,
+Nigeria,1956-01-01,
+Rwanda,1956-01-01,
+Senegal,1956-01-01,
+Sierra Leone,1956-01-01,
+Somalia,1956-01-01,
+South Sudan,1956-01-01,
+Sudan,1956-01-01,
+Tanzania,1956-01-01,
+Timor,1956-01-01,
+Togo,1956-01-01,
+Uganda,1956-01-01,
+Western Sahara,1956-01-01,
+Yemen,1956-01-01,
+Zambia,1956-01-01,
+Afghanistan,1957-01-01,
+Angola,1957-01-01,
+Benin,1957-01-01,
+Bhutan,1957-01-01,
+Burkina Faso,1957-01-01,
+Burundi,1957-01-01,
+Cambodia,1957-01-01,
+Cameroon,1957-01-01,
+Central African Republic,1957-01-01,
+Chad,1957-01-01,
+Comoros,1957-01-01,
+Cote d'Ivoire,1957-01-01,
+Democratic Republic of Congo,1957-01-01,
+Djibouti,1957-01-01,
+Equatorial Guinea,1957-01-01,
+Eritrea,1957-01-01,
+Eswatini,1957-01-01,
+Ethiopia,1957-01-01,
+Gambia,1957-01-01,
+Guinea,1957-01-01,
+Guinea-Bissau,1957-01-01,
+Haiti,1957-01-01,
+Laos,1957-01-01,
+Lesotho,1957-01-01,
+Liberia,1957-01-01,
+Madagascar,1957-01-01,
+Malawi,1957-01-01,
+Mali,1957-01-01,
+Mozambique,1957-01-01,
+Nepal,1957-01-01,
+Niger,1957-01-01,
+Nigeria,1957-01-01,
+Rwanda,1957-01-01,
+Senegal,1957-01-01,
+Sierra Leone,1957-01-01,
+Somalia,1957-01-01,
+South Sudan,1957-01-01,
+Sudan,1957-01-01,
+Tanzania,1957-01-01,
+Timor,1957-01-01,
+Togo,1957-01-01,
+Uganda,1957-01-01,
+Western Sahara,1957-01-01,
+Yemen,1957-01-01,
+Zambia,1957-01-01,
+Afghanistan,1958-01-01,
+Angola,1958-01-01,
+Benin,1958-01-01,
+Bhutan,1958-01-01,
+Burkina Faso,1958-01-01,
+Burundi,1958-01-01,
+Cambodia,1958-01-01,
+Cameroon,1958-01-01,
+Central African Republic,1958-01-01,
+Chad,1958-01-01,
+Comoros,1958-01-01,
+Cote d'Ivoire,1958-01-01,
+Democratic Republic of Congo,1958-01-01,
+Djibouti,1958-01-01,
+Equatorial Guinea,1958-01-01,
+Eritrea,1958-01-01,
+Eswatini,1958-01-01,
+Ethiopia,1958-01-01,
+Gambia,1958-01-01,
+Guinea,1958-01-01,
+Guinea-Bissau,1958-01-01,
+Haiti,1958-01-01,
+Laos,1958-01-01,
+Lesotho,1958-01-01,
+Liberia,1958-01-01,
+Madagascar,1958-01-01,
+Malawi,1958-01-01,
+Mali,1958-01-01,
+Mozambique,1958-01-01,
+Nepal,1958-01-01,
+Niger,1958-01-01,
+Nigeria,1958-01-01,
+Rwanda,1958-01-01,
+Senegal,1958-01-01,
+Sierra Leone,1958-01-01,
+Somalia,1958-01-01,
+South Sudan,1958-01-01,
+Sudan,1958-01-01,
+Tanzania,1958-01-01,
+Timor,1958-01-01,
+Togo,1958-01-01,
+Uganda,1958-01-01,
+Western Sahara,1958-01-01,
+Yemen,1958-01-01,
+Zambia,1958-01-01,
+Afghanistan,1959-01-01,
+Angola,1959-01-01,
+Benin,1959-01-01,
+Bhutan,1959-01-01,
+Burkina Faso,1959-01-01,
+Burundi,1959-01-01,
+Cambodia,1959-01-01,
+Cameroon,1959-01-01,
+Central African Republic,1959-01-01,
+Chad,1959-01-01,
+Comoros,1959-01-01,
+Cote d'Ivoire,1959-01-01,
+Democratic Republic of Congo,1959-01-01,
+Djibouti,1959-01-01,
+Equatorial Guinea,1959-01-01,
+Eritrea,1959-01-01,
+Eswatini,1959-01-01,
+Ethiopia,1959-01-01,
+Gambia,1959-01-01,
+Guinea,1959-01-01,
+Guinea-Bissau,1959-01-01,
+Haiti,1959-01-01,
+Laos,1959-01-01,
+Lesotho,1959-01-01,
+Liberia,1959-01-01,
+Madagascar,1959-01-01,
+Malawi,1959-01-01,
+Mali,1959-01-01,
+Mozambique,1959-01-01,
+Nepal,1959-01-01,
+Niger,1959-01-01,
+Nigeria,1959-01-01,
+Rwanda,1959-01-01,
+Senegal,1959-01-01,
+Sierra Leone,1959-01-01,
+Somalia,1959-01-01,
+South Sudan,1959-01-01,
+Sudan,1959-01-01,
+Tanzania,1959-01-01,
+Timor,1959-01-01,
+Togo,1959-01-01,
+Uganda,1959-01-01,
+Western Sahara,1959-01-01,
+Yemen,1959-01-01,
+Zambia,1959-01-01,
+Afghanistan,1960-01-01,
+Angola,1960-01-01,
+Benin,1960-01-01,
+Bhutan,1960-01-01,
+Burkina Faso,1960-01-01,
+Burundi,1960-01-01,
+Cambodia,1960-01-01,
+Cameroon,1960-01-01,
+Central African Republic,1960-01-01,
+Chad,1960-01-01,
+Comoros,1960-01-01,
+Cote d'Ivoire,1960-01-01,
+Democratic Republic of Congo,1960-01-01,
+Djibouti,1960-01-01,
+Equatorial Guinea,1960-01-01,
+Eritrea,1960-01-01,
+Eswatini,1960-01-01,
+Ethiopia,1960-01-01,
+Gambia,1960-01-01,
+Guinea,1960-01-01,
+Guinea-Bissau,1960-01-01,
+Haiti,1960-01-01,
+Laos,1960-01-01,
+Lesotho,1960-01-01,
+Liberia,1960-01-01,
+Madagascar,1960-01-01,
+Malawi,1960-01-01,
+Mali,1960-01-01,
+Mozambique,1960-01-01,
+Nepal,1960-01-01,
+Niger,1960-01-01,
+Nigeria,1960-01-01,
+Rwanda,1960-01-01,
+Senegal,1960-01-01,
+Sierra Leone,1960-01-01,
+Somalia,1960-01-01,
+South Sudan,1960-01-01,
+Sudan,1960-01-01,
+Tanzania,1960-01-01,
+Timor,1960-01-01,
+Togo,1960-01-01,
+Uganda,1960-01-01,
+Western Sahara,1960-01-01,
+Yemen,1960-01-01,
+Zambia,1960-01-01,
+Afghanistan,1961-01-01,
+Angola,1961-01-01,
+Benin,1961-01-01,
+Bhutan,1961-01-01,
+Burkina Faso,1961-01-01,
+Burundi,1961-01-01,
+Cambodia,1961-01-01,
+Cameroon,1961-01-01,
+Central African Republic,1961-01-01,
+Chad,1961-01-01,
+Comoros,1961-01-01,
+Cote d'Ivoire,1961-01-01,
+Democratic Republic of Congo,1961-01-01,
+Djibouti,1961-01-01,
+Equatorial Guinea,1961-01-01,
+Eritrea,1961-01-01,
+Eswatini,1961-01-01,
+Ethiopia,1961-01-01,
+Gambia,1961-01-01,
+Guinea,1961-01-01,
+Guinea-Bissau,1961-01-01,
+Haiti,1961-01-01,
+Laos,1961-01-01,
+Lesotho,1961-01-01,
+Liberia,1961-01-01,
+Madagascar,1961-01-01,
+Malawi,1961-01-01,
+Mali,1961-01-01,
+Mozambique,1961-01-01,
+Nepal,1961-01-01,
+Niger,1961-01-01,
+Nigeria,1961-01-01,
+Rwanda,1961-01-01,
+Senegal,1961-01-01,
+Sierra Leone,1961-01-01,
+Somalia,1961-01-01,
+South Sudan,1961-01-01,
+Sudan,1961-01-01,
+Tanzania,1961-01-01,
+Timor,1961-01-01,
+Togo,1961-01-01,
+Uganda,1961-01-01,
+Western Sahara,1961-01-01,
+Yemen,1961-01-01,
+Zambia,1961-01-01,
+Afghanistan,1962-01-01,
+Angola,1962-01-01,
+Benin,1962-01-01,
+Bhutan,1962-01-01,
+Burkina Faso,1962-01-01,
+Burundi,1962-01-01,
+Cambodia,1962-01-01,
+Cameroon,1962-01-01,
+Central African Republic,1962-01-01,
+Chad,1962-01-01,
+Comoros,1962-01-01,
+Cote d'Ivoire,1962-01-01,
+Democratic Republic of Congo,1962-01-01,
+Djibouti,1962-01-01,
+Equatorial Guinea,1962-01-01,
+Eritrea,1962-01-01,
+Eswatini,1962-01-01,
+Ethiopia,1962-01-01,
+Gambia,1962-01-01,
+Guinea,1962-01-01,
+Guinea-Bissau,1962-01-01,
+Haiti,1962-01-01,
+Laos,1962-01-01,
+Lesotho,1962-01-01,
+Liberia,1962-01-01,
+Madagascar,1962-01-01,
+Malawi,1962-01-01,
+Mali,1962-01-01,
+Mozambique,1962-01-01,
+Nepal,1962-01-01,
+Niger,1962-01-01,
+Nigeria,1962-01-01,
+Rwanda,1962-01-01,
+Senegal,1962-01-01,
+Sierra Leone,1962-01-01,
+Somalia,1962-01-01,
+South Sudan,1962-01-01,
+Sudan,1962-01-01,
+Tanzania,1962-01-01,
+Timor,1962-01-01,
+Togo,1962-01-01,
+Uganda,1962-01-01,
+Western Sahara,1962-01-01,
+Yemen,1962-01-01,
+Zambia,1962-01-01,
+Afghanistan,1963-01-01,
+Angola,1963-01-01,
+Benin,1963-01-01,
+Bhutan,1963-01-01,
+Burkina Faso,1963-01-01,
+Burundi,1963-01-01,
+Cambodia,1963-01-01,
+Cameroon,1963-01-01,
+Central African Republic,1963-01-01,
+Chad,1963-01-01,
+Comoros,1963-01-01,
+Cote d'Ivoire,1963-01-01,
+Democratic Republic of Congo,1963-01-01,
+Djibouti,1963-01-01,
+Equatorial Guinea,1963-01-01,
+Eritrea,1963-01-01,
+Eswatini,1963-01-01,
+Ethiopia,1963-01-01,
+Gambia,1963-01-01,
+Guinea,1963-01-01,
+Guinea-Bissau,1963-01-01,
+Haiti,1963-01-01,
+Laos,1963-01-01,
+Lesotho,1963-01-01,
+Liberia,1963-01-01,
+Madagascar,1963-01-01,
+Malawi,1963-01-01,
+Mali,1963-01-01,
+Mozambique,1963-01-01,
+Nepal,1963-01-01,
+Niger,1963-01-01,
+Nigeria,1963-01-01,
+Rwanda,1963-01-01,
+Senegal,1963-01-01,
+Sierra Leone,1963-01-01,
+Somalia,1963-01-01,
+South Sudan,1963-01-01,
+Sudan,1963-01-01,
+Tanzania,1963-01-01,
+Timor,1963-01-01,
+Togo,1963-01-01,
+Uganda,1963-01-01,
+Western Sahara,1963-01-01,
+Yemen,1963-01-01,
+Zambia,1963-01-01,
+Afghanistan,1964-01-01,
+Angola,1964-01-01,
+Benin,1964-01-01,
+Bhutan,1964-01-01,
+Burkina Faso,1964-01-01,
+Burundi,1964-01-01,
+Cambodia,1964-01-01,
+Cameroon,1964-01-01,
+Central African Republic,1964-01-01,
+Chad,1964-01-01,
+Comoros,1964-01-01,
+Cote d'Ivoire,1964-01-01,
+Democratic Republic of Congo,1964-01-01,
+Djibouti,1964-01-01,
+Equatorial Guinea,1964-01-01,
+Eritrea,1964-01-01,
+Eswatini,1964-01-01,
+Ethiopia,1964-01-01,
+Gambia,1964-01-01,
+Guinea,1964-01-01,
+Guinea-Bissau,1964-01-01,
+Haiti,1964-01-01,
+Laos,1964-01-01,
+Lesotho,1964-01-01,
+Liberia,1964-01-01,
+Madagascar,1964-01-01,
+Malawi,1964-01-01,
+Mali,1964-01-01,
+Mozambique,1964-01-01,
+Nepal,1964-01-01,
+Niger,1964-01-01,
+Nigeria,1964-01-01,
+Rwanda,1964-01-01,
+Senegal,1964-01-01,
+Sierra Leone,1964-01-01,
+Somalia,1964-01-01,
+South Sudan,1964-01-01,
+Sudan,1964-01-01,
+Tanzania,1964-01-01,
+Timor,1964-01-01,
+Togo,1964-01-01,
+Uganda,1964-01-01,
+Western Sahara,1964-01-01,
+Yemen,1964-01-01,
+Zambia,1964-01-01,
+Afghanistan,1965-01-01,
+Angola,1965-01-01,
+Benin,1965-01-01,
+Bhutan,1965-01-01,
+Burkina Faso,1965-01-01,
+Burundi,1965-01-01,
+Cambodia,1965-01-01,
+Cameroon,1965-01-01,
+Central African Republic,1965-01-01,
+Chad,1965-01-01,
+Comoros,1965-01-01,
+Cote d'Ivoire,1965-01-01,
+Democratic Republic of Congo,1965-01-01,
+Djibouti,1965-01-01,
+Equatorial Guinea,1965-01-01,
+Eritrea,1965-01-01,
+Eswatini,1965-01-01,
+Ethiopia,1965-01-01,
+Gambia,1965-01-01,
+Guinea,1965-01-01,
+Guinea-Bissau,1965-01-01,
+Haiti,1965-01-01,
+Laos,1965-01-01,
+Lesotho,1965-01-01,
+Liberia,1965-01-01,
+Madagascar,1965-01-01,
+Malawi,1965-01-01,
+Mali,1965-01-01,
+Mozambique,1965-01-01,
+Nepal,1965-01-01,
+Niger,1965-01-01,
+Nigeria,1965-01-01,
+Rwanda,1965-01-01,
+Senegal,1965-01-01,
+Sierra Leone,1965-01-01,
+Somalia,1965-01-01,
+South Sudan,1965-01-01,
+Sudan,1965-01-01,
+Tanzania,1965-01-01,
+Timor,1965-01-01,
+Togo,1965-01-01,
+Uganda,1965-01-01,
+Western Sahara,1965-01-01,
+Yemen,1965-01-01,
+Zambia,1965-01-01,
+Afghanistan,1966-01-01,
+Angola,1966-01-01,
+Benin,1966-01-01,
+Bhutan,1966-01-01,
+Burkina Faso,1966-01-01,
+Burundi,1966-01-01,
+Cambodia,1966-01-01,
+Cameroon,1966-01-01,
+Central African Republic,1966-01-01,
+Chad,1966-01-01,
+Comoros,1966-01-01,
+Cote d'Ivoire,1966-01-01,
+Democratic Republic of Congo,1966-01-01,
+Djibouti,1966-01-01,
+Equatorial Guinea,1966-01-01,
+Eritrea,1966-01-01,
+Eswatini,1966-01-01,
+Ethiopia,1966-01-01,
+Gambia,1966-01-01,
+Guinea,1966-01-01,
+Guinea-Bissau,1966-01-01,
+Haiti,1966-01-01,
+Laos,1966-01-01,
+Lesotho,1966-01-01,
+Liberia,1966-01-01,
+Madagascar,1966-01-01,
+Malawi,1966-01-01,
+Mali,1966-01-01,
+Mozambique,1966-01-01,
+Nepal,1966-01-01,
+Niger,1966-01-01,
+Nigeria,1966-01-01,
+Rwanda,1966-01-01,
+Senegal,1966-01-01,
+Sierra Leone,1966-01-01,
+Somalia,1966-01-01,
+South Sudan,1966-01-01,
+Sudan,1966-01-01,
+Tanzania,1966-01-01,
+Timor,1966-01-01,
+Togo,1966-01-01,
+Uganda,1966-01-01,
+Western Sahara,1966-01-01,
+Yemen,1966-01-01,
+Zambia,1966-01-01,
+Afghanistan,1967-01-01,
+Angola,1967-01-01,
+Benin,1967-01-01,
+Bhutan,1967-01-01,
+Burkina Faso,1967-01-01,
+Burundi,1967-01-01,
+Cambodia,1967-01-01,
+Cameroon,1967-01-01,
+Central African Republic,1967-01-01,
+Chad,1967-01-01,
+Comoros,1967-01-01,
+Cote d'Ivoire,1967-01-01,
+Democratic Republic of Congo,1967-01-01,
+Djibouti,1967-01-01,
+Equatorial Guinea,1967-01-01,
+Eritrea,1967-01-01,
+Eswatini,1967-01-01,
+Ethiopia,1967-01-01,
+Gambia,1967-01-01,
+Guinea,1967-01-01,
+Guinea-Bissau,1967-01-01,
+Haiti,1967-01-01,
+Laos,1967-01-01,
+Lesotho,1967-01-01,
+Liberia,1967-01-01,
+Madagascar,1967-01-01,
+Malawi,1967-01-01,
+Mali,1967-01-01,
+Mozambique,1967-01-01,
+Nepal,1967-01-01,
+Niger,1967-01-01,
+Nigeria,1967-01-01,
+Rwanda,1967-01-01,
+Senegal,1967-01-01,
+Sierra Leone,1967-01-01,
+Somalia,1967-01-01,
+South Sudan,1967-01-01,
+Sudan,1967-01-01,
+Tanzania,1967-01-01,
+Timor,1967-01-01,
+Togo,1967-01-01,
+Uganda,1967-01-01,
+Western Sahara,1967-01-01,
+Yemen,1967-01-01,
+Zambia,1967-01-01,
+Afghanistan,1968-01-01,
+Angola,1968-01-01,
+Benin,1968-01-01,
+Bhutan,1968-01-01,
+Burkina Faso,1968-01-01,
+Burundi,1968-01-01,
+Cambodia,1968-01-01,
+Cameroon,1968-01-01,
+Central African Republic,1968-01-01,
+Chad,1968-01-01,
+Comoros,1968-01-01,
+Cote d'Ivoire,1968-01-01,
+Democratic Republic of Congo,1968-01-01,
+Djibouti,1968-01-01,
+Equatorial Guinea,1968-01-01,
+Eritrea,1968-01-01,
+Eswatini,1968-01-01,
+Ethiopia,1968-01-01,
+Gambia,1968-01-01,
+Guinea,1968-01-01,
+Guinea-Bissau,1968-01-01,
+Haiti,1968-01-01,
+Laos,1968-01-01,
+Lesotho,1968-01-01,
+Liberia,1968-01-01,
+Madagascar,1968-01-01,
+Malawi,1968-01-01,
+Mali,1968-01-01,
+Mozambique,1968-01-01,
+Nepal,1968-01-01,
+Niger,1968-01-01,
+Nigeria,1968-01-01,
+Rwanda,1968-01-01,
+Senegal,1968-01-01,
+Sierra Leone,1968-01-01,
+Somalia,1968-01-01,
+South Sudan,1968-01-01,
+Sudan,1968-01-01,
+Tanzania,1968-01-01,
+Timor,1968-01-01,
+Togo,1968-01-01,
+Uganda,1968-01-01,
+Western Sahara,1968-01-01,
+Yemen,1968-01-01,
+Zambia,1968-01-01,
+Afghanistan,1969-01-01,
+Angola,1969-01-01,
+Benin,1969-01-01,
+Bhutan,1969-01-01,
+Burkina Faso,1969-01-01,
+Burundi,1969-01-01,
+Cambodia,1969-01-01,
+Cameroon,1969-01-01,
+Central African Republic,1969-01-01,
+Chad,1969-01-01,
+Comoros,1969-01-01,
+Cote d'Ivoire,1969-01-01,
+Democratic Republic of Congo,1969-01-01,
+Djibouti,1969-01-01,
+Equatorial Guinea,1969-01-01,
+Eritrea,1969-01-01,
+Eswatini,1969-01-01,
+Ethiopia,1969-01-01,
+Gambia,1969-01-01,
+Guinea,1969-01-01,
+Guinea-Bissau,1969-01-01,
+Haiti,1969-01-01,
+Laos,1969-01-01,
+Lesotho,1969-01-01,
+Liberia,1969-01-01,
+Madagascar,1969-01-01,
+Malawi,1969-01-01,
+Mali,1969-01-01,
+Mozambique,1969-01-01,
+Nepal,1969-01-01,
+Niger,1969-01-01,
+Nigeria,1969-01-01,
+Rwanda,1969-01-01,
+Senegal,1969-01-01,
+Sierra Leone,1969-01-01,
+Somalia,1969-01-01,
+South Sudan,1969-01-01,
+Sudan,1969-01-01,
+Tanzania,1969-01-01,
+Timor,1969-01-01,
+Togo,1969-01-01,
+Uganda,1969-01-01,
+Western Sahara,1969-01-01,
+Yemen,1969-01-01,
+Zambia,1969-01-01,
+Afghanistan,1970-01-01,
+Angola,1970-01-01,
+Benin,1970-01-01,
+Bhutan,1970-01-01,
+Burkina Faso,1970-01-01,
+Burundi,1970-01-01,
+Cambodia,1970-01-01,
+Cameroon,1970-01-01,
+Central African Republic,1970-01-01,
+Chad,1970-01-01,
+Comoros,1970-01-01,
+Cote d'Ivoire,1970-01-01,
+Democratic Republic of Congo,1970-01-01,
+Djibouti,1970-01-01,
+Equatorial Guinea,1970-01-01,
+Eritrea,1970-01-01,
+Eswatini,1970-01-01,
+Ethiopia,1970-01-01,
+Gambia,1970-01-01,
+Guinea,1970-01-01,
+Guinea-Bissau,1970-01-01,
+Haiti,1970-01-01,
+Laos,1970-01-01,
+Lesotho,1970-01-01,
+Liberia,1970-01-01,
+Madagascar,1970-01-01,
+Malawi,1970-01-01,
+Mali,1970-01-01,
+Mozambique,1970-01-01,
+Nepal,1970-01-01,
+Niger,1970-01-01,
+Nigeria,1970-01-01,
+Rwanda,1970-01-01,
+Senegal,1970-01-01,
+Sierra Leone,1970-01-01,
+Somalia,1970-01-01,
+South Sudan,1970-01-01,
+Sudan,1970-01-01,
+Tanzania,1970-01-01,
+Timor,1970-01-01,
+Togo,1970-01-01,
+Uganda,1970-01-01,
+Western Sahara,1970-01-01,
+Yemen,1970-01-01,
+Zambia,1970-01-01,
+Afghanistan,1971-01-01,
+Angola,1971-01-01,
+Benin,1971-01-01,
+Bhutan,1971-01-01,
+Burkina Faso,1971-01-01,
+Burundi,1971-01-01,
+Cambodia,1971-01-01,
+Cameroon,1971-01-01,
+Central African Republic,1971-01-01,
+Chad,1971-01-01,
+Comoros,1971-01-01,
+Cote d'Ivoire,1971-01-01,
+Democratic Republic of Congo,1971-01-01,
+Djibouti,1971-01-01,
+Equatorial Guinea,1971-01-01,
+Eritrea,1971-01-01,
+Eswatini,1971-01-01,
+Ethiopia,1971-01-01,
+Gambia,1971-01-01,
+Guinea,1971-01-01,
+Guinea-Bissau,1971-01-01,
+Haiti,1971-01-01,
+Laos,1971-01-01,
+Lesotho,1971-01-01,
+Liberia,1971-01-01,
+Madagascar,1971-01-01,
+Malawi,1971-01-01,
+Mali,1971-01-01,
+Mozambique,1971-01-01,
+Nepal,1971-01-01,
+Niger,1971-01-01,
+Nigeria,1971-01-01,
+Rwanda,1971-01-01,
+Senegal,1971-01-01,
+Sierra Leone,1971-01-01,
+Somalia,1971-01-01,
+South Sudan,1971-01-01,
+Sudan,1971-01-01,
+Tanzania,1971-01-01,
+Timor,1971-01-01,
+Togo,1971-01-01,
+Uganda,1971-01-01,
+Western Sahara,1971-01-01,
+Yemen,1971-01-01,
+Zambia,1971-01-01,
+Afghanistan,1972-01-01,
+Angola,1972-01-01,
+Benin,1972-01-01,
+Bhutan,1972-01-01,
+Burkina Faso,1972-01-01,
+Burundi,1972-01-01,
+Cambodia,1972-01-01,
+Cameroon,1972-01-01,
+Central African Republic,1972-01-01,
+Chad,1972-01-01,
+Comoros,1972-01-01,
+Cote d'Ivoire,1972-01-01,
+Democratic Republic of Congo,1972-01-01,
+Djibouti,1972-01-01,
+Equatorial Guinea,1972-01-01,
+Eritrea,1972-01-01,
+Eswatini,1972-01-01,
+Ethiopia,1972-01-01,
+Gambia,1972-01-01,
+Guinea,1972-01-01,
+Guinea-Bissau,1972-01-01,
+Haiti,1972-01-01,
+Laos,1972-01-01,
+Lesotho,1972-01-01,
+Liberia,1972-01-01,
+Madagascar,1972-01-01,
+Malawi,1972-01-01,
+Mali,1972-01-01,
+Mozambique,1972-01-01,
+Nepal,1972-01-01,
+Niger,1972-01-01,
+Nigeria,1972-01-01,
+Rwanda,1972-01-01,
+Senegal,1972-01-01,
+Sierra Leone,1972-01-01,
+Somalia,1972-01-01,
+South Sudan,1972-01-01,
+Sudan,1972-01-01,
+Tanzania,1972-01-01,
+Timor,1972-01-01,
+Togo,1972-01-01,
+Uganda,1972-01-01,
+Western Sahara,1972-01-01,
+Yemen,1972-01-01,
+Zambia,1972-01-01,
+Afghanistan,1973-01-01,
+Angola,1973-01-01,
+Benin,1973-01-01,
+Bhutan,1973-01-01,
+Burkina Faso,1973-01-01,
+Burundi,1973-01-01,
+Cambodia,1973-01-01,
+Cameroon,1973-01-01,
+Central African Republic,1973-01-01,
+Chad,1973-01-01,
+Comoros,1973-01-01,
+Cote d'Ivoire,1973-01-01,
+Democratic Republic of Congo,1973-01-01,
+Djibouti,1973-01-01,
+Equatorial Guinea,1973-01-01,
+Eritrea,1973-01-01,
+Eswatini,1973-01-01,
+Ethiopia,1973-01-01,
+Gambia,1973-01-01,
+Guinea,1973-01-01,
+Guinea-Bissau,1973-01-01,
+Haiti,1973-01-01,
+Laos,1973-01-01,
+Lesotho,1973-01-01,
+Liberia,1973-01-01,
+Madagascar,1973-01-01,
+Malawi,1973-01-01,
+Mali,1973-01-01,
+Mozambique,1973-01-01,
+Nepal,1973-01-01,
+Niger,1973-01-01,
+Nigeria,1973-01-01,
+Rwanda,1973-01-01,
+Senegal,1973-01-01,
+Sierra Leone,1973-01-01,
+Somalia,1973-01-01,
+South Sudan,1973-01-01,
+Sudan,1973-01-01,
+Tanzania,1973-01-01,
+Timor,1973-01-01,
+Togo,1973-01-01,
+Uganda,1973-01-01,
+Western Sahara,1973-01-01,
+Yemen,1973-01-01,
+Zambia,1973-01-01,
+Afghanistan,1974-01-01,
+Angola,1974-01-01,
+Benin,1974-01-01,
+Bhutan,1974-01-01,
+Burkina Faso,1974-01-01,
+Burundi,1974-01-01,
+Cambodia,1974-01-01,
+Cameroon,1974-01-01,
+Central African Republic,1974-01-01,
+Chad,1974-01-01,
+Comoros,1974-01-01,
+Cote d'Ivoire,1974-01-01,
+Democratic Republic of Congo,1974-01-01,
+Djibouti,1974-01-01,
+Equatorial Guinea,1974-01-01,
+Eritrea,1974-01-01,
+Eswatini,1974-01-01,
+Ethiopia,1974-01-01,
+Gambia,1974-01-01,
+Guinea,1974-01-01,
+Guinea-Bissau,1974-01-01,
+Haiti,1974-01-01,
+Laos,1974-01-01,
+Lesotho,1974-01-01,
+Liberia,1974-01-01,
+Madagascar,1974-01-01,
+Malawi,1974-01-01,
+Mali,1974-01-01,
+Mozambique,1974-01-01,
+Nepal,1974-01-01,
+Niger,1974-01-01,
+Nigeria,1974-01-01,
+Rwanda,1974-01-01,
+Senegal,1974-01-01,
+Sierra Leone,1974-01-01,
+Somalia,1974-01-01,
+South Sudan,1974-01-01,
+Sudan,1974-01-01,
+Tanzania,1974-01-01,
+Timor,1974-01-01,
+Togo,1974-01-01,
+Uganda,1974-01-01,
+Western Sahara,1974-01-01,
+Yemen,1974-01-01,
+Zambia,1974-01-01,
+Afghanistan,1975-01-01,
+Angola,1975-01-01,
+Benin,1975-01-01,
+Bhutan,1975-01-01,
+Burkina Faso,1975-01-01,
+Burundi,1975-01-01,
+Cambodia,1975-01-01,
+Cameroon,1975-01-01,
+Central African Republic,1975-01-01,
+Chad,1975-01-01,
+Comoros,1975-01-01,
+Cote d'Ivoire,1975-01-01,
+Democratic Republic of Congo,1975-01-01,
+Djibouti,1975-01-01,
+Equatorial Guinea,1975-01-01,
+Eritrea,1975-01-01,
+Eswatini,1975-01-01,
+Ethiopia,1975-01-01,
+Gambia,1975-01-01,
+Guinea,1975-01-01,
+Guinea-Bissau,1975-01-01,
+Haiti,1975-01-01,
+Laos,1975-01-01,
+Lesotho,1975-01-01,
+Liberia,1975-01-01,
+Madagascar,1975-01-01,
+Malawi,1975-01-01,
+Mali,1975-01-01,
+Mozambique,1975-01-01,
+Nepal,1975-01-01,
+Niger,1975-01-01,
+Nigeria,1975-01-01,
+Rwanda,1975-01-01,
+Senegal,1975-01-01,
+Sierra Leone,1975-01-01,
+Somalia,1975-01-01,
+South Sudan,1975-01-01,
+Sudan,1975-01-01,
+Tanzania,1975-01-01,
+Timor,1975-01-01,
+Togo,1975-01-01,
+Uganda,1975-01-01,
+Western Sahara,1975-01-01,
+Yemen,1975-01-01,
+Zambia,1975-01-01,
+Afghanistan,1976-01-01,
+Angola,1976-01-01,
+Benin,1976-01-01,
+Bhutan,1976-01-01,
+Burkina Faso,1976-01-01,
+Burundi,1976-01-01,
+Cambodia,1976-01-01,
+Cameroon,1976-01-01,
+Central African Republic,1976-01-01,
+Chad,1976-01-01,
+Comoros,1976-01-01,
+Cote d'Ivoire,1976-01-01,
+Democratic Republic of Congo,1976-01-01,
+Djibouti,1976-01-01,
+Equatorial Guinea,1976-01-01,
+Eritrea,1976-01-01,
+Eswatini,1976-01-01,
+Ethiopia,1976-01-01,
+Gambia,1976-01-01,
+Guinea,1976-01-01,
+Guinea-Bissau,1976-01-01,
+Haiti,1976-01-01,
+Laos,1976-01-01,
+Lesotho,1976-01-01,
+Liberia,1976-01-01,
+Madagascar,1976-01-01,
+Malawi,1976-01-01,
+Mali,1976-01-01,
+Mozambique,1976-01-01,
+Nepal,1976-01-01,
+Niger,1976-01-01,
+Nigeria,1976-01-01,
+Rwanda,1976-01-01,
+Senegal,1976-01-01,
+Sierra Leone,1976-01-01,
+Somalia,1976-01-01,
+South Sudan,1976-01-01,
+Sudan,1976-01-01,
+Tanzania,1976-01-01,
+Timor,1976-01-01,
+Togo,1976-01-01,
+Uganda,1976-01-01,
+Western Sahara,1976-01-01,
+Yemen,1976-01-01,
+Zambia,1976-01-01,
+Afghanistan,1977-01-01,
+Angola,1977-01-01,
+Benin,1977-01-01,
+Bhutan,1977-01-01,
+Burkina Faso,1977-01-01,
+Burundi,1977-01-01,
+Cambodia,1977-01-01,
+Cameroon,1977-01-01,
+Central African Republic,1977-01-01,
+Chad,1977-01-01,
+Comoros,1977-01-01,
+Cote d'Ivoire,1977-01-01,
+Democratic Republic of Congo,1977-01-01,
+Djibouti,1977-01-01,
+Equatorial Guinea,1977-01-01,
+Eritrea,1977-01-01,
+Eswatini,1977-01-01,
+Ethiopia,1977-01-01,
+Gambia,1977-01-01,
+Guinea,1977-01-01,
+Guinea-Bissau,1977-01-01,
+Haiti,1977-01-01,
+Laos,1977-01-01,
+Lesotho,1977-01-01,
+Liberia,1977-01-01,
+Madagascar,1977-01-01,
+Malawi,1977-01-01,
+Mali,1977-01-01,
+Mozambique,1977-01-01,
+Nepal,1977-01-01,
+Niger,1977-01-01,
+Nigeria,1977-01-01,
+Rwanda,1977-01-01,
+Senegal,1977-01-01,
+Sierra Leone,1977-01-01,
+Somalia,1977-01-01,
+South Sudan,1977-01-01,
+Sudan,1977-01-01,
+Tanzania,1977-01-01,
+Timor,1977-01-01,
+Togo,1977-01-01,
+Uganda,1977-01-01,
+Western Sahara,1977-01-01,
+Yemen,1977-01-01,
+Zambia,1977-01-01,
+Afghanistan,1978-01-01,
+Angola,1978-01-01,
+Benin,1978-01-01,
+Bhutan,1978-01-01,
+Burkina Faso,1978-01-01,
+Burundi,1978-01-01,
+Cambodia,1978-01-01,
+Cameroon,1978-01-01,
+Central African Republic,1978-01-01,
+Chad,1978-01-01,
+Comoros,1978-01-01,
+Cote d'Ivoire,1978-01-01,
+Democratic Republic of Congo,1978-01-01,
+Djibouti,1978-01-01,
+Equatorial Guinea,1978-01-01,
+Eritrea,1978-01-01,
+Eswatini,1978-01-01,
+Ethiopia,1978-01-01,
+Gambia,1978-01-01,
+Guinea,1978-01-01,
+Guinea-Bissau,1978-01-01,
+Haiti,1978-01-01,
+Laos,1978-01-01,
+Lesotho,1978-01-01,
+Liberia,1978-01-01,
+Madagascar,1978-01-01,
+Malawi,1978-01-01,
+Mali,1978-01-01,
+Mozambique,1978-01-01,
+Nepal,1978-01-01,
+Niger,1978-01-01,
+Nigeria,1978-01-01,
+Rwanda,1978-01-01,
+Senegal,1978-01-01,
+Sierra Leone,1978-01-01,
+Somalia,1978-01-01,
+South Sudan,1978-01-01,
+Sudan,1978-01-01,
+Tanzania,1978-01-01,
+Timor,1978-01-01,
+Togo,1978-01-01,
+Uganda,1978-01-01,
+Western Sahara,1978-01-01,
+Yemen,1978-01-01,
+Zambia,1978-01-01,
+Afghanistan,1979-01-01,
+Angola,1979-01-01,
+Benin,1979-01-01,
+Bhutan,1979-01-01,
+Burkina Faso,1979-01-01,
+Burundi,1979-01-01,
+Cambodia,1979-01-01,
+Cameroon,1979-01-01,
+Central African Republic,1979-01-01,
+Chad,1979-01-01,
+Comoros,1979-01-01,
+Cote d'Ivoire,1979-01-01,
+Democratic Republic of Congo,1979-01-01,
+Djibouti,1979-01-01,
+Equatorial Guinea,1979-01-01,
+Eritrea,1979-01-01,
+Eswatini,1979-01-01,
+Ethiopia,1979-01-01,
+Gambia,1979-01-01,
+Guinea,1979-01-01,
+Guinea-Bissau,1979-01-01,
+Haiti,1979-01-01,
+Laos,1979-01-01,
+Lesotho,1979-01-01,
+Liberia,1979-01-01,
+Madagascar,1979-01-01,
+Malawi,1979-01-01,
+Mali,1979-01-01,
+Mozambique,1979-01-01,
+Nepal,1979-01-01,
+Niger,1979-01-01,
+Nigeria,1979-01-01,
+Rwanda,1979-01-01,
+Senegal,1979-01-01,
+Sierra Leone,1979-01-01,
+Somalia,1979-01-01,
+South Sudan,1979-01-01,
+Sudan,1979-01-01,
+Tanzania,1979-01-01,
+Timor,1979-01-01,
+Togo,1979-01-01,
+Uganda,1979-01-01,
+Western Sahara,1979-01-01,
+Yemen,1979-01-01,
+Zambia,1979-01-01,
+Afghanistan,1980-01-01,
+Angola,1980-01-01,
+Benin,1980-01-01,
+Bhutan,1980-01-01,
+Burkina Faso,1980-01-01,
+Burundi,1980-01-01,
+Cambodia,1980-01-01,
+Cameroon,1980-01-01,
+Central African Republic,1980-01-01,
+Chad,1980-01-01,
+Comoros,1980-01-01,
+Cote d'Ivoire,1980-01-01,
+Democratic Republic of Congo,1980-01-01,
+Djibouti,1980-01-01,
+Equatorial Guinea,1980-01-01,
+Eritrea,1980-01-01,
+Eswatini,1980-01-01,
+Ethiopia,1980-01-01,
+Gambia,1980-01-01,
+Guinea,1980-01-01,
+Guinea-Bissau,1980-01-01,
+Haiti,1980-01-01,
+Laos,1980-01-01,
+Lesotho,1980-01-01,
+Liberia,1980-01-01,
+Madagascar,1980-01-01,
+Malawi,1980-01-01,
+Mali,1980-01-01,
+Mozambique,1980-01-01,
+Nepal,1980-01-01,
+Niger,1980-01-01,
+Nigeria,1980-01-01,
+Rwanda,1980-01-01,
+Senegal,1980-01-01,
+Sierra Leone,1980-01-01,
+Somalia,1980-01-01,
+South Sudan,1980-01-01,
+Sudan,1980-01-01,
+Tanzania,1980-01-01,
+Timor,1980-01-01,
+Togo,1980-01-01,
+Uganda,1980-01-01,
+Western Sahara,1980-01-01,
+Yemen,1980-01-01,
+Zambia,1980-01-01,
+Afghanistan,1981-01-01,
+Angola,1981-01-01,
+Benin,1981-01-01,
+Bhutan,1981-01-01,
+Burkina Faso,1981-01-01,
+Burundi,1981-01-01,
+Cambodia,1981-01-01,
+Cameroon,1981-01-01,
+Central African Republic,1981-01-01,
+Chad,1981-01-01,
+Comoros,1981-01-01,
+Cote d'Ivoire,1981-01-01,
+Democratic Republic of Congo,1981-01-01,
+Djibouti,1981-01-01,
+Equatorial Guinea,1981-01-01,
+Eritrea,1981-01-01,
+Eswatini,1981-01-01,
+Ethiopia,1981-01-01,
+Gambia,1981-01-01,
+Guinea,1981-01-01,
+Guinea-Bissau,1981-01-01,
+Haiti,1981-01-01,
+Laos,1981-01-01,
+Lesotho,1981-01-01,
+Liberia,1981-01-01,
+Madagascar,1981-01-01,
+Malawi,1981-01-01,
+Mali,1981-01-01,
+Mozambique,1981-01-01,
+Nepal,1981-01-01,
+Niger,1981-01-01,
+Nigeria,1981-01-01,
+Rwanda,1981-01-01,
+Senegal,1981-01-01,
+Sierra Leone,1981-01-01,
+Somalia,1981-01-01,
+South Sudan,1981-01-01,
+Sudan,1981-01-01,
+Tanzania,1981-01-01,
+Timor,1981-01-01,
+Togo,1981-01-01,
+Uganda,1981-01-01,
+Western Sahara,1981-01-01,
+Yemen,1981-01-01,
+Zambia,1981-01-01,
+Afghanistan,1982-01-01,
+Angola,1982-01-01,
+Benin,1982-01-01,
+Bhutan,1982-01-01,
+Burkina Faso,1982-01-01,
+Burundi,1982-01-01,
+Cambodia,1982-01-01,
+Cameroon,1982-01-01,
+Central African Republic,1982-01-01,
+Chad,1982-01-01,
+Comoros,1982-01-01,
+Cote d'Ivoire,1982-01-01,
+Democratic Republic of Congo,1982-01-01,
+Djibouti,1982-01-01,
+Equatorial Guinea,1982-01-01,
+Eritrea,1982-01-01,
+Eswatini,1982-01-01,
+Ethiopia,1982-01-01,
+Gambia,1982-01-01,
+Guinea,1982-01-01,
+Guinea-Bissau,1982-01-01,
+Haiti,1982-01-01,
+Laos,1982-01-01,
+Lesotho,1982-01-01,
+Liberia,1982-01-01,
+Madagascar,1982-01-01,
+Malawi,1982-01-01,
+Mali,1982-01-01,
+Mozambique,1982-01-01,
+Nepal,1982-01-01,
+Niger,1982-01-01,
+Nigeria,1982-01-01,
+Rwanda,1982-01-01,
+Senegal,1982-01-01,
+Sierra Leone,1982-01-01,
+Somalia,1982-01-01,
+South Sudan,1982-01-01,
+Sudan,1982-01-01,
+Tanzania,1982-01-01,
+Timor,1982-01-01,
+Togo,1982-01-01,
+Uganda,1982-01-01,
+Western Sahara,1982-01-01,
+Yemen,1982-01-01,
+Zambia,1982-01-01,
+Afghanistan,1983-01-01,
+Angola,1983-01-01,
+Benin,1983-01-01,
+Bhutan,1983-01-01,
+Burkina Faso,1983-01-01,
+Burundi,1983-01-01,
+Cambodia,1983-01-01,
+Cameroon,1983-01-01,
+Central African Republic,1983-01-01,
+Chad,1983-01-01,
+Comoros,1983-01-01,
+Cote d'Ivoire,1983-01-01,
+Democratic Republic of Congo,1983-01-01,
+Djibouti,1983-01-01,
+Equatorial Guinea,1983-01-01,
+Eritrea,1983-01-01,
+Eswatini,1983-01-01,
+Ethiopia,1983-01-01,
+Gambia,1983-01-01,
+Guinea,1983-01-01,
+Guinea-Bissau,1983-01-01,
+Haiti,1983-01-01,
+Laos,1983-01-01,
+Lesotho,1983-01-01,
+Liberia,1983-01-01,
+Madagascar,1983-01-01,
+Malawi,1983-01-01,
+Mali,1983-01-01,
+Mozambique,1983-01-01,
+Nepal,1983-01-01,
+Niger,1983-01-01,
+Nigeria,1983-01-01,
+Rwanda,1983-01-01,
+Senegal,1983-01-01,
+Sierra Leone,1983-01-01,
+Somalia,1983-01-01,
+South Sudan,1983-01-01,
+Sudan,1983-01-01,
+Tanzania,1983-01-01,
+Timor,1983-01-01,
+Togo,1983-01-01,
+Uganda,1983-01-01,
+Western Sahara,1983-01-01,
+Yemen,1983-01-01,
+Zambia,1983-01-01,
+Afghanistan,1984-01-01,
+Angola,1984-01-01,
+Benin,1984-01-01,
+Bhutan,1984-01-01,
+Burkina Faso,1984-01-01,
+Burundi,1984-01-01,
+Cambodia,1984-01-01,
+Cameroon,1984-01-01,
+Central African Republic,1984-01-01,
+Chad,1984-01-01,
+Comoros,1984-01-01,
+Cote d'Ivoire,1984-01-01,
+Democratic Republic of Congo,1984-01-01,
+Djibouti,1984-01-01,
+Equatorial Guinea,1984-01-01,
+Eritrea,1984-01-01,
+Eswatini,1984-01-01,
+Ethiopia,1984-01-01,
+Gambia,1984-01-01,
+Guinea,1984-01-01,
+Guinea-Bissau,1984-01-01,
+Haiti,1984-01-01,
+Laos,1984-01-01,
+Lesotho,1984-01-01,
+Liberia,1984-01-01,
+Madagascar,1984-01-01,
+Malawi,1984-01-01,
+Mali,1984-01-01,
+Mozambique,1984-01-01,
+Nepal,1984-01-01,
+Niger,1984-01-01,
+Nigeria,1984-01-01,
+Rwanda,1984-01-01,
+Senegal,1984-01-01,
+Sierra Leone,1984-01-01,
+Somalia,1984-01-01,
+South Sudan,1984-01-01,
+Sudan,1984-01-01,
+Tanzania,1984-01-01,
+Timor,1984-01-01,
+Togo,1984-01-01,
+Uganda,1984-01-01,
+Western Sahara,1984-01-01,
+Yemen,1984-01-01,
+Zambia,1984-01-01,
+Afghanistan,1985-01-01,
+Angola,1985-01-01,
+Benin,1985-01-01,
+Bhutan,1985-01-01,
+Burkina Faso,1985-01-01,
+Burundi,1985-01-01,
+Cambodia,1985-01-01,
+Cameroon,1985-01-01,
+Central African Republic,1985-01-01,
+Chad,1985-01-01,
+Comoros,1985-01-01,
+Cote d'Ivoire,1985-01-01,
+Democratic Republic of Congo,1985-01-01,
+Djibouti,1985-01-01,
+Equatorial Guinea,1985-01-01,
+Eritrea,1985-01-01,
+Eswatini,1985-01-01,
+Ethiopia,1985-01-01,
+Gambia,1985-01-01,
+Guinea,1985-01-01,
+Guinea-Bissau,1985-01-01,
+Haiti,1985-01-01,
+Laos,1985-01-01,
+Lesotho,1985-01-01,
+Liberia,1985-01-01,
+Madagascar,1985-01-01,
+Malawi,1985-01-01,
+Mali,1985-01-01,
+Mozambique,1985-01-01,
+Nepal,1985-01-01,
+Niger,1985-01-01,
+Nigeria,1985-01-01,
+Rwanda,1985-01-01,
+Senegal,1985-01-01,
+Sierra Leone,1985-01-01,
+Somalia,1985-01-01,
+South Sudan,1985-01-01,
+Sudan,1985-01-01,
+Tanzania,1985-01-01,
+Timor,1985-01-01,
+Togo,1985-01-01,
+Uganda,1985-01-01,
+Western Sahara,1985-01-01,
+Yemen,1985-01-01,
+Zambia,1985-01-01,
+Afghanistan,1986-01-01,
+Angola,1986-01-01,
+Benin,1986-01-01,
+Bhutan,1986-01-01,
+Burkina Faso,1986-01-01,
+Burundi,1986-01-01,
+Cambodia,1986-01-01,
+Cameroon,1986-01-01,
+Central African Republic,1986-01-01,
+Chad,1986-01-01,
+Comoros,1986-01-01,
+Cote d'Ivoire,1986-01-01,
+Democratic Republic of Congo,1986-01-01,
+Djibouti,1986-01-01,
+Equatorial Guinea,1986-01-01,
+Eritrea,1986-01-01,
+Eswatini,1986-01-01,
+Ethiopia,1986-01-01,
+Gambia,1986-01-01,
+Guinea,1986-01-01,
+Guinea-Bissau,1986-01-01,
+Haiti,1986-01-01,
+Laos,1986-01-01,
+Lesotho,1986-01-01,
+Liberia,1986-01-01,
+Madagascar,1986-01-01,
+Malawi,1986-01-01,
+Mali,1986-01-01,
+Mozambique,1986-01-01,
+Nepal,1986-01-01,
+Niger,1986-01-01,
+Nigeria,1986-01-01,
+Rwanda,1986-01-01,
+Senegal,1986-01-01,
+Sierra Leone,1986-01-01,
+Somalia,1986-01-01,
+South Sudan,1986-01-01,
+Sudan,1986-01-01,
+Tanzania,1986-01-01,
+Timor,1986-01-01,
+Togo,1986-01-01,
+Uganda,1986-01-01,
+Western Sahara,1986-01-01,
+Yemen,1986-01-01,
+Zambia,1986-01-01,
+Afghanistan,1987-01-01,
+Angola,1987-01-01,
+Benin,1987-01-01,
+Bhutan,1987-01-01,
+Burkina Faso,1987-01-01,
+Burundi,1987-01-01,
+Cambodia,1987-01-01,
+Cameroon,1987-01-01,
+Central African Republic,1987-01-01,
+Chad,1987-01-01,
+Comoros,1987-01-01,
+Cote d'Ivoire,1987-01-01,
+Democratic Republic of Congo,1987-01-01,
+Djibouti,1987-01-01,
+Equatorial Guinea,1987-01-01,
+Eritrea,1987-01-01,
+Eswatini,1987-01-01,
+Ethiopia,1987-01-01,
+Gambia,1987-01-01,
+Guinea,1987-01-01,
+Guinea-Bissau,1987-01-01,
+Haiti,1987-01-01,
+Laos,1987-01-01,
+Lesotho,1987-01-01,
+Liberia,1987-01-01,
+Madagascar,1987-01-01,
+Malawi,1987-01-01,
+Mali,1987-01-01,
+Mozambique,1987-01-01,
+Nepal,1987-01-01,
+Niger,1987-01-01,
+Nigeria,1987-01-01,
+Rwanda,1987-01-01,
+Senegal,1987-01-01,
+Sierra Leone,1987-01-01,
+Somalia,1987-01-01,
+South Sudan,1987-01-01,
+Sudan,1987-01-01,
+Tanzania,1987-01-01,
+Timor,1987-01-01,
+Togo,1987-01-01,
+Uganda,1987-01-01,
+Western Sahara,1987-01-01,
+Yemen,1987-01-01,
+Zambia,1987-01-01,
+Afghanistan,1988-01-01,
+Angola,1988-01-01,
+Benin,1988-01-01,
+Bhutan,1988-01-01,
+Burkina Faso,1988-01-01,
+Burundi,1988-01-01,
+Cambodia,1988-01-01,
+Cameroon,1988-01-01,
+Central African Republic,1988-01-01,
+Chad,1988-01-01,
+Comoros,1988-01-01,
+Cote d'Ivoire,1988-01-01,
+Democratic Republic of Congo,1988-01-01,
+Djibouti,1988-01-01,
+Equatorial Guinea,1988-01-01,
+Eritrea,1988-01-01,
+Eswatini,1988-01-01,
+Ethiopia,1988-01-01,
+Gambia,1988-01-01,
+Guinea,1988-01-01,
+Guinea-Bissau,1988-01-01,
+Haiti,1988-01-01,
+Laos,1988-01-01,
+Lesotho,1988-01-01,
+Liberia,1988-01-01,
+Madagascar,1988-01-01,
+Malawi,1988-01-01,
+Mali,1988-01-01,
+Mozambique,1988-01-01,
+Nepal,1988-01-01,
+Niger,1988-01-01,
+Nigeria,1988-01-01,
+Rwanda,1988-01-01,
+Senegal,1988-01-01,
+Sierra Leone,1988-01-01,
+Somalia,1988-01-01,
+South Sudan,1988-01-01,
+Sudan,1988-01-01,
+Tanzania,1988-01-01,
+Timor,1988-01-01,
+Togo,1988-01-01,
+Uganda,1988-01-01,
+Western Sahara,1988-01-01,
+Yemen,1988-01-01,
+Zambia,1988-01-01,
+Afghanistan,1989-01-01,
+Angola,1989-01-01,
+Benin,1989-01-01,
+Bhutan,1989-01-01,
+Burkina Faso,1989-01-01,
+Burundi,1989-01-01,
+Cambodia,1989-01-01,
+Cameroon,1989-01-01,
+Central African Republic,1989-01-01,
+Chad,1989-01-01,
+Comoros,1989-01-01,
+Cote d'Ivoire,1989-01-01,
+Democratic Republic of Congo,1989-01-01,
+Djibouti,1989-01-01,
+Equatorial Guinea,1989-01-01,
+Eritrea,1989-01-01,
+Eswatini,1989-01-01,
+Ethiopia,1989-01-01,
+Gambia,1989-01-01,
+Guinea,1989-01-01,
+Guinea-Bissau,1989-01-01,
+Haiti,1989-01-01,
+Laos,1989-01-01,
+Lesotho,1989-01-01,
+Liberia,1989-01-01,
+Madagascar,1989-01-01,
+Malawi,1989-01-01,
+Mali,1989-01-01,
+Mozambique,1989-01-01,
+Nepal,1989-01-01,
+Niger,1989-01-01,
+Nigeria,1989-01-01,
+Rwanda,1989-01-01,
+Senegal,1989-01-01,
+Sierra Leone,1989-01-01,
+Somalia,1989-01-01,
+South Sudan,1989-01-01,
+Sudan,1989-01-01,
+Tanzania,1989-01-01,
+Timor,1989-01-01,
+Togo,1989-01-01,
+Uganda,1989-01-01,
+Western Sahara,1989-01-01,
+Yemen,1989-01-01,
+Zambia,1989-01-01,
+Afghanistan,1990-01-01,
+Angola,1990-01-01,
+Benin,1990-01-01,
+Bhutan,1990-01-01,
+Burkina Faso,1990-01-01,
+Burundi,1990-01-01,
+Cambodia,1990-01-01,
+Cameroon,1990-01-01,
+Central African Republic,1990-01-01,
+Chad,1990-01-01,
+Comoros,1990-01-01,
+Cote d'Ivoire,1990-01-01,
+Democratic Republic of Congo,1990-01-01,
+Djibouti,1990-01-01,
+Equatorial Guinea,1990-01-01,
+Eritrea,1990-01-01,
+Eswatini,1990-01-01,
+Ethiopia,1990-01-01,
+Gambia,1990-01-01,
+Guinea,1990-01-01,
+Guinea-Bissau,1990-01-01,
+Haiti,1990-01-01,
+Laos,1990-01-01,
+Lesotho,1990-01-01,
+Liberia,1990-01-01,
+Madagascar,1990-01-01,
+Malawi,1990-01-01,
+Mali,1990-01-01,
+Mozambique,1990-01-01,
+Nepal,1990-01-01,
+Niger,1990-01-01,
+Nigeria,1990-01-01,
+Rwanda,1990-01-01,
+Senegal,1990-01-01,
+Sierra Leone,1990-01-01,
+Somalia,1990-01-01,
+South Sudan,1990-01-01,
+Sudan,1990-01-01,
+Tanzania,1990-01-01,
+Timor,1990-01-01,
+Togo,1990-01-01,
+Uganda,1990-01-01,
+Western Sahara,1990-01-01,
+Yemen,1990-01-01,
+Zambia,1990-01-01,
+Afghanistan,1991-01-01,
+Angola,1991-01-01,
+Benin,1991-01-01,
+Bhutan,1991-01-01,
+Burkina Faso,1991-01-01,
+Burundi,1991-01-01,
+Cambodia,1991-01-01,
+Cameroon,1991-01-01,
+Central African Republic,1991-01-01,
+Chad,1991-01-01,
+Comoros,1991-01-01,
+Cote d'Ivoire,1991-01-01,
+Democratic Republic of Congo,1991-01-01,
+Djibouti,1991-01-01,
+Equatorial Guinea,1991-01-01,
+Eritrea,1991-01-01,
+Eswatini,1991-01-01,
+Ethiopia,1991-01-01,
+Gambia,1991-01-01,
+Guinea,1991-01-01,
+Guinea-Bissau,1991-01-01,
+Haiti,1991-01-01,
+Laos,1991-01-01,
+Lesotho,1991-01-01,
+Liberia,1991-01-01,
+Madagascar,1991-01-01,
+Malawi,1991-01-01,
+Mali,1991-01-01,
+Mozambique,1991-01-01,
+Nepal,1991-01-01,
+Niger,1991-01-01,
+Nigeria,1991-01-01,
+Rwanda,1991-01-01,
+Senegal,1991-01-01,
+Sierra Leone,1991-01-01,
+Somalia,1991-01-01,
+South Sudan,1991-01-01,
+Sudan,1991-01-01,
+Tanzania,1991-01-01,
+Timor,1991-01-01,
+Togo,1991-01-01,
+Uganda,1991-01-01,
+Western Sahara,1991-01-01,
+Yemen,1991-01-01,
+Zambia,1991-01-01,
+Afghanistan,1992-01-01,
+Angola,1992-01-01,
+Benin,1992-01-01,
+Bhutan,1992-01-01,
+Burkina Faso,1992-01-01,
+Burundi,1992-01-01,
+Cambodia,1992-01-01,
+Cameroon,1992-01-01,
+Central African Republic,1992-01-01,
+Chad,1992-01-01,
+Comoros,1992-01-01,
+Cote d'Ivoire,1992-01-01,
+Democratic Republic of Congo,1992-01-01,
+Djibouti,1992-01-01,
+Equatorial Guinea,1992-01-01,
+Eritrea,1992-01-01,
+Eswatini,1992-01-01,
+Ethiopia,1992-01-01,
+Gambia,1992-01-01,
+Guinea,1992-01-01,
+Guinea-Bissau,1992-01-01,
+Haiti,1992-01-01,
+Laos,1992-01-01,
+Lesotho,1992-01-01,
+Liberia,1992-01-01,
+Madagascar,1992-01-01,
+Malawi,1992-01-01,
+Mali,1992-01-01,
+Mozambique,1992-01-01,
+Nepal,1992-01-01,
+Niger,1992-01-01,
+Nigeria,1992-01-01,
+Rwanda,1992-01-01,
+Senegal,1992-01-01,
+Sierra Leone,1992-01-01,
+Somalia,1992-01-01,
+South Sudan,1992-01-01,
+Sudan,1992-01-01,
+Tanzania,1992-01-01,
+Timor,1992-01-01,
+Togo,1992-01-01,
+Uganda,1992-01-01,
+Western Sahara,1992-01-01,
+Yemen,1992-01-01,
+Zambia,1992-01-01,
+Afghanistan,1993-01-01,
+Angola,1993-01-01,
+Benin,1993-01-01,
+Bhutan,1993-01-01,
+Burkina Faso,1993-01-01,
+Burundi,1993-01-01,
+Cambodia,1993-01-01,
+Cameroon,1993-01-01,
+Central African Republic,1993-01-01,
+Chad,1993-01-01,
+Comoros,1993-01-01,
+Cote d'Ivoire,1993-01-01,
+Democratic Republic of Congo,1993-01-01,
+Djibouti,1993-01-01,
+Equatorial Guinea,1993-01-01,
+Eritrea,1993-01-01,
+Eswatini,1993-01-01,
+Ethiopia,1993-01-01,
+Gambia,1993-01-01,
+Guinea,1993-01-01,
+Guinea-Bissau,1993-01-01,
+Haiti,1993-01-01,
+Laos,1993-01-01,
+Lesotho,1993-01-01,
+Liberia,1993-01-01,
+Madagascar,1993-01-01,
+Malawi,1993-01-01,
+Mali,1993-01-01,
+Mozambique,1993-01-01,
+Nepal,1993-01-01,
+Niger,1993-01-01,
+Nigeria,1993-01-01,
+Rwanda,1993-01-01,
+Senegal,1993-01-01,
+Sierra Leone,1993-01-01,
+Somalia,1993-01-01,
+South Sudan,1993-01-01,
+Sudan,1993-01-01,
+Tanzania,1993-01-01,
+Timor,1993-01-01,
+Togo,1993-01-01,
+Uganda,1993-01-01,
+Western Sahara,1993-01-01,
+Yemen,1993-01-01,
+Zambia,1993-01-01,
+Afghanistan,1994-01-01,
+Angola,1994-01-01,
+Benin,1994-01-01,
+Bhutan,1994-01-01,
+Burkina Faso,1994-01-01,
+Burundi,1994-01-01,
+Cambodia,1994-01-01,
+Cameroon,1994-01-01,
+Central African Republic,1994-01-01,
+Chad,1994-01-01,
+Comoros,1994-01-01,
+Cote d'Ivoire,1994-01-01,
+Democratic Republic of Congo,1994-01-01,
+Djibouti,1994-01-01,
+Equatorial Guinea,1994-01-01,
+Eritrea,1994-01-01,
+Eswatini,1994-01-01,
+Ethiopia,1994-01-01,
+Gambia,1994-01-01,
+Guinea,1994-01-01,
+Guinea-Bissau,1994-01-01,
+Haiti,1994-01-01,
+Laos,1994-01-01,
+Lesotho,1994-01-01,
+Liberia,1994-01-01,
+Madagascar,1994-01-01,
+Malawi,1994-01-01,
+Mali,1994-01-01,
+Mozambique,1994-01-01,
+Nepal,1994-01-01,
+Niger,1994-01-01,
+Nigeria,1994-01-01,
+Rwanda,1994-01-01,
+Senegal,1994-01-01,
+Sierra Leone,1994-01-01,
+Somalia,1994-01-01,
+South Sudan,1994-01-01,
+Sudan,1994-01-01,
+Tanzania,1994-01-01,
+Timor,1994-01-01,
+Togo,1994-01-01,
+Uganda,1994-01-01,
+Western Sahara,1994-01-01,
+Yemen,1994-01-01,
+Zambia,1994-01-01,
+Afghanistan,1995-01-01,
+Angola,1995-01-01,
+Benin,1995-01-01,
+Bhutan,1995-01-01,
+Burkina Faso,1995-01-01,
+Burundi,1995-01-01,
+Cambodia,1995-01-01,
+Cameroon,1995-01-01,
+Central African Republic,1995-01-01,
+Chad,1995-01-01,
+Comoros,1995-01-01,
+Cote d'Ivoire,1995-01-01,
+Democratic Republic of Congo,1995-01-01,
+Djibouti,1995-01-01,
+Equatorial Guinea,1995-01-01,
+Eritrea,1995-01-01,
+Eswatini,1995-01-01,
+Ethiopia,1995-01-01,
+Gambia,1995-01-01,
+Guinea,1995-01-01,
+Guinea-Bissau,1995-01-01,
+Haiti,1995-01-01,
+Laos,1995-01-01,
+Lesotho,1995-01-01,
+Liberia,1995-01-01,
+Madagascar,1995-01-01,
+Malawi,1995-01-01,
+Mali,1995-01-01,
+Mozambique,1995-01-01,
+Nepal,1995-01-01,
+Niger,1995-01-01,
+Nigeria,1995-01-01,
+Rwanda,1995-01-01,
+Senegal,1995-01-01,
+Sierra Leone,1995-01-01,
+Somalia,1995-01-01,
+South Sudan,1995-01-01,
+Sudan,1995-01-01,
+Tanzania,1995-01-01,
+Timor,1995-01-01,
+Togo,1995-01-01,
+Uganda,1995-01-01,
+Western Sahara,1995-01-01,
+Yemen,1995-01-01,
+Zambia,1995-01-01,
+Afghanistan,1996-01-01,
+Angola,1996-01-01,
+Benin,1996-01-01,
+Bhutan,1996-01-01,
+Burkina Faso,1996-01-01,
+Burundi,1996-01-01,
+Cambodia,1996-01-01,
+Cameroon,1996-01-01,
+Central African Republic,1996-01-01,
+Chad,1996-01-01,
+Comoros,1996-01-01,
+Cote d'Ivoire,1996-01-01,
+Democratic Republic of Congo,1996-01-01,
+Djibouti,1996-01-01,
+Equatorial Guinea,1996-01-01,
+Eritrea,1996-01-01,
+Eswatini,1996-01-01,
+Ethiopia,1996-01-01,
+Gambia,1996-01-01,
+Guinea,1996-01-01,
+Guinea-Bissau,1996-01-01,
+Haiti,1996-01-01,
+Laos,1996-01-01,
+Lesotho,1996-01-01,
+Liberia,1996-01-01,
+Madagascar,1996-01-01,
+Malawi,1996-01-01,
+Mali,1996-01-01,
+Mozambique,1996-01-01,
+Nepal,1996-01-01,
+Niger,1996-01-01,
+Nigeria,1996-01-01,
+Rwanda,1996-01-01,
+Senegal,1996-01-01,
+Sierra Leone,1996-01-01,
+Somalia,1996-01-01,
+South Sudan,1996-01-01,
+Sudan,1996-01-01,
+Tanzania,1996-01-01,
+Timor,1996-01-01,
+Togo,1996-01-01,
+Uganda,1996-01-01,
+Western Sahara,1996-01-01,
+Yemen,1996-01-01,
+Zambia,1996-01-01,
+Afghanistan,1997-01-01,
+Angola,1997-01-01,
+Benin,1997-01-01,
+Bhutan,1997-01-01,
+Burkina Faso,1997-01-01,
+Burundi,1997-01-01,
+Cambodia,1997-01-01,
+Cameroon,1997-01-01,
+Central African Republic,1997-01-01,
+Chad,1997-01-01,
+Comoros,1997-01-01,
+Cote d'Ivoire,1997-01-01,
+Democratic Republic of Congo,1997-01-01,
+Djibouti,1997-01-01,
+Equatorial Guinea,1997-01-01,
+Eritrea,1997-01-01,
+Eswatini,1997-01-01,
+Ethiopia,1997-01-01,
+Gambia,1997-01-01,
+Guinea,1997-01-01,
+Guinea-Bissau,1997-01-01,
+Haiti,1997-01-01,
+Laos,1997-01-01,
+Lesotho,1997-01-01,
+Liberia,1997-01-01,
+Madagascar,1997-01-01,
+Malawi,1997-01-01,
+Mali,1997-01-01,
+Mozambique,1997-01-01,
+Nepal,1997-01-01,
+Niger,1997-01-01,
+Nigeria,1997-01-01,
+Rwanda,1997-01-01,
+Senegal,1997-01-01,
+Sierra Leone,1997-01-01,
+Somalia,1997-01-01,
+South Sudan,1997-01-01,
+Sudan,1997-01-01,
+Tanzania,1997-01-01,
+Timor,1997-01-01,
+Togo,1997-01-01,
+Uganda,1997-01-01,
+Western Sahara,1997-01-01,
+Yemen,1997-01-01,
+Zambia,1997-01-01,
+Afghanistan,1998-01-01,
+Angola,1998-01-01,
+Benin,1998-01-01,
+Bhutan,1998-01-01,
+Burkina Faso,1998-01-01,
+Burundi,1998-01-01,
+Cambodia,1998-01-01,
+Cameroon,1998-01-01,
+Central African Republic,1998-01-01,
+Chad,1998-01-01,
+Comoros,1998-01-01,
+Cote d'Ivoire,1998-01-01,
+Democratic Republic of Congo,1998-01-01,
+Djibouti,1998-01-01,
+Equatorial Guinea,1998-01-01,
+Eritrea,1998-01-01,
+Eswatini,1998-01-01,
+Ethiopia,1998-01-01,
+Gambia,1998-01-01,
+Guinea,1998-01-01,
+Guinea-Bissau,1998-01-01,
+Haiti,1998-01-01,
+Laos,1998-01-01,
+Lesotho,1998-01-01,
+Liberia,1998-01-01,
+Madagascar,1998-01-01,
+Malawi,1998-01-01,
+Mali,1998-01-01,
+Mozambique,1998-01-01,
+Nepal,1998-01-01,
+Niger,1998-01-01,
+Nigeria,1998-01-01,
+Rwanda,1998-01-01,
+Senegal,1998-01-01,
+Sierra Leone,1998-01-01,
+Somalia,1998-01-01,
+South Sudan,1998-01-01,
+Sudan,1998-01-01,
+Tanzania,1998-01-01,
+Timor,1998-01-01,
+Togo,1998-01-01,
+Uganda,1998-01-01,
+Western Sahara,1998-01-01,
+Yemen,1998-01-01,
+Zambia,1998-01-01,
+Afghanistan,1999-01-01,
+Angola,1999-01-01,
+Benin,1999-01-01,
+Bhutan,1999-01-01,
+Burkina Faso,1999-01-01,
+Burundi,1999-01-01,
+Cambodia,1999-01-01,
+Cameroon,1999-01-01,
+Central African Republic,1999-01-01,
+Chad,1999-01-01,
+Comoros,1999-01-01,
+Cote d'Ivoire,1999-01-01,
+Democratic Republic of Congo,1999-01-01,
+Djibouti,1999-01-01,
+Equatorial Guinea,1999-01-01,
+Eritrea,1999-01-01,
+Eswatini,1999-01-01,
+Ethiopia,1999-01-01,
+Gambia,1999-01-01,
+Guinea,1999-01-01,
+Guinea-Bissau,1999-01-01,
+Haiti,1999-01-01,
+Laos,1999-01-01,
+Lesotho,1999-01-01,
+Liberia,1999-01-01,
+Madagascar,1999-01-01,
+Malawi,1999-01-01,
+Mali,1999-01-01,
+Mozambique,1999-01-01,
+Nepal,1999-01-01,
+Niger,1999-01-01,
+Nigeria,1999-01-01,
+Rwanda,1999-01-01,
+Senegal,1999-01-01,
+Sierra Leone,1999-01-01,
+Somalia,1999-01-01,
+South Sudan,1999-01-01,
+Sudan,1999-01-01,
+Tanzania,1999-01-01,
+Timor,1999-01-01,
+Togo,1999-01-01,
+Uganda,1999-01-01,
+Western Sahara,1999-01-01,
+Yemen,1999-01-01,
+Zambia,1999-01-01,
+Afghanistan,2000-01-01,
+Angola,2000-01-01,
+Benin,2000-01-01,
+Bhutan,2000-01-01,
+Burkina Faso,2000-01-01,
+Burundi,2000-01-01,
+Cambodia,2000-01-01,
+Cameroon,2000-01-01,
+Central African Republic,2000-01-01,
+Chad,2000-01-01,
+Comoros,2000-01-01,
+Cote d'Ivoire,2000-01-01,
+Democratic Republic of Congo,2000-01-01,
+Djibouti,2000-01-01,
+Equatorial Guinea,2000-01-01,
+Eritrea,2000-01-01,
+Eswatini,2000-01-01,
+Ethiopia,2000-01-01,
+Gambia,2000-01-01,
+Guinea,2000-01-01,
+Guinea-Bissau,2000-01-01,
+Haiti,2000-01-01,
+Laos,2000-01-01,
+Lesotho,2000-01-01,
+Liberia,2000-01-01,
+Madagascar,2000-01-01,
+Malawi,2000-01-01,
+Mali,2000-01-01,
+Mozambique,2000-01-01,
+Nepal,2000-01-01,
+Niger,2000-01-01,
+Nigeria,2000-01-01,
+Rwanda,2000-01-01,
+Senegal,2000-01-01,
+Sierra Leone,2000-01-01,
+Somalia,2000-01-01,
+South Sudan,2000-01-01,
+Sudan,2000-01-01,
+Tanzania,2000-01-01,
+Timor,2000-01-01,
+Togo,2000-01-01,
+Uganda,2000-01-01,
+Western Sahara,2000-01-01,
+Yemen,2000-01-01,
+Zambia,2000-01-01,
+Afghanistan,2001-01-01,
+Angola,2001-01-01,
+Benin,2001-01-01,
+Bhutan,2001-01-01,
+Burkina Faso,2001-01-01,
+Burundi,2001-01-01,
+Cambodia,2001-01-01,
+Cameroon,2001-01-01,
+Central African Republic,2001-01-01,
+Chad,2001-01-01,
+Comoros,2001-01-01,
+Cote d'Ivoire,2001-01-01,
+Democratic Republic of Congo,2001-01-01,
+Djibouti,2001-01-01,
+Equatorial Guinea,2001-01-01,
+Eritrea,2001-01-01,
+Eswatini,2001-01-01,
+Ethiopia,2001-01-01,
+Gambia,2001-01-01,
+Guinea,2001-01-01,
+Guinea-Bissau,2001-01-01,
+Haiti,2001-01-01,
+Laos,2001-01-01,
+Lesotho,2001-01-01,
+Liberia,2001-01-01,
+Madagascar,2001-01-01,
+Malawi,2001-01-01,
+Mali,2001-01-01,
+Mozambique,2001-01-01,
+Nepal,2001-01-01,
+Niger,2001-01-01,
+Nigeria,2001-01-01,
+Rwanda,2001-01-01,
+Senegal,2001-01-01,
+Sierra Leone,2001-01-01,
+Somalia,2001-01-01,
+South Sudan,2001-01-01,
+Sudan,2001-01-01,
+Tanzania,2001-01-01,
+Timor,2001-01-01,
+Togo,2001-01-01,
+Uganda,2001-01-01,
+Western Sahara,2001-01-01,
+Yemen,2001-01-01,
+Zambia,2001-01-01,
+Afghanistan,2002-01-01,
+Angola,2002-01-01,
+Benin,2002-01-01,
+Bhutan,2002-01-01,
+Burkina Faso,2002-01-01,
+Burundi,2002-01-01,
+Cambodia,2002-01-01,
+Cameroon,2002-01-01,
+Central African Republic,2002-01-01,
+Chad,2002-01-01,
+Comoros,2002-01-01,
+Cote d'Ivoire,2002-01-01,
+Democratic Republic of Congo,2002-01-01,
+Djibouti,2002-01-01,
+Equatorial Guinea,2002-01-01,
+Eritrea,2002-01-01,
+Eswatini,2002-01-01,
+Ethiopia,2002-01-01,
+Gambia,2002-01-01,
+Guinea,2002-01-01,
+Guinea-Bissau,2002-01-01,
+Haiti,2002-01-01,
+Laos,2002-01-01,
+Lesotho,2002-01-01,
+Liberia,2002-01-01,
+Madagascar,2002-01-01,
+Malawi,2002-01-01,
+Mali,2002-01-01,
+Mozambique,2002-01-01,
+Nepal,2002-01-01,
+Niger,2002-01-01,
+Nigeria,2002-01-01,
+Rwanda,2002-01-01,
+Senegal,2002-01-01,
+Sierra Leone,2002-01-01,
+Somalia,2002-01-01,
+South Sudan,2002-01-01,
+Sudan,2002-01-01,
+Tanzania,2002-01-01,
+Timor,2002-01-01,
+Togo,2002-01-01,
+Uganda,2002-01-01,
+Western Sahara,2002-01-01,
+Yemen,2002-01-01,
+Zambia,2002-01-01,
+Afghanistan,2003-01-01,
+Angola,2003-01-01,
+Benin,2003-01-01,
+Bhutan,2003-01-01,
+Burkina Faso,2003-01-01,
+Burundi,2003-01-01,
+Cambodia,2003-01-01,
+Cameroon,2003-01-01,
+Central African Republic,2003-01-01,
+Chad,2003-01-01,
+Comoros,2003-01-01,
+Cote d'Ivoire,2003-01-01,
+Democratic Republic of Congo,2003-01-01,
+Djibouti,2003-01-01,
+Equatorial Guinea,2003-01-01,
+Eritrea,2003-01-01,
+Eswatini,2003-01-01,
+Ethiopia,2003-01-01,
+Gambia,2003-01-01,
+Guinea,2003-01-01,
+Guinea-Bissau,2003-01-01,
+Haiti,2003-01-01,
+Laos,2003-01-01,
+Lesotho,2003-01-01,
+Liberia,2003-01-01,
+Madagascar,2003-01-01,
+Malawi,2003-01-01,
+Mali,2003-01-01,
+Mozambique,2003-01-01,
+Nepal,2003-01-01,
+Niger,2003-01-01,
+Nigeria,2003-01-01,
+Rwanda,2003-01-01,
+Senegal,2003-01-01,
+Sierra Leone,2003-01-01,
+Somalia,2003-01-01,
+South Sudan,2003-01-01,
+Sudan,2003-01-01,
+Tanzania,2003-01-01,
+Timor,2003-01-01,
+Togo,2003-01-01,
+Uganda,2003-01-01,
+Western Sahara,2003-01-01,
+Yemen,2003-01-01,
+Zambia,2003-01-01,
+Afghanistan,2004-01-01,
+Angola,2004-01-01,
+Benin,2004-01-01,
+Bhutan,2004-01-01,
+Burkina Faso,2004-01-01,
+Burundi,2004-01-01,
+Cambodia,2004-01-01,
+Cameroon,2004-01-01,
+Central African Republic,2004-01-01,
+Chad,2004-01-01,
+Comoros,2004-01-01,
+Cote d'Ivoire,2004-01-01,
+Democratic Republic of Congo,2004-01-01,
+Djibouti,2004-01-01,
+Equatorial Guinea,2004-01-01,
+Eritrea,2004-01-01,
+Eswatini,2004-01-01,
+Ethiopia,2004-01-01,
+Gambia,2004-01-01,
+Guinea,2004-01-01,
+Guinea-Bissau,2004-01-01,
+Haiti,2004-01-01,
+Laos,2004-01-01,
+Lesotho,2004-01-01,
+Liberia,2004-01-01,
+Madagascar,2004-01-01,
+Malawi,2004-01-01,
+Mali,2004-01-01,
+Mozambique,2004-01-01,
+Nepal,2004-01-01,
+Niger,2004-01-01,
+Nigeria,2004-01-01,
+Rwanda,2004-01-01,
+Senegal,2004-01-01,
+Sierra Leone,2004-01-01,
+Somalia,2004-01-01,
+South Sudan,2004-01-01,
+Sudan,2004-01-01,
+Tanzania,2004-01-01,
+Timor,2004-01-01,
+Togo,2004-01-01,
+Uganda,2004-01-01,
+Western Sahara,2004-01-01,
+Yemen,2004-01-01,
+Zambia,2004-01-01,
+Afghanistan,2005-01-01,58.27772883321042
+Angola,2005-01-01,47.541399502164104
+Benin,2005-01-01,58.86617937637795
+Bhutan,2005-01-01,67.06729239334003
+Burkina Faso,2005-01-01,52.446552923166585
+Burundi,2005-01-01,48.7134559153526
+Cambodia,2005-01-01,66.51552948119974
+Cameroon,2005-01-01,52.74636614977227
+Central African Republic,2005-01-01,44.219958678836505
+Chad,2005-01-01,48.47093638038023
+Comoros,2005-01-01,61.03435166530495
+Cote d'Ivoire,2005-01-01,50.228233883715475
+Democratic Republic of Congo,2005-01-01,52.777553494921875
+Djibouti,2005-01-01,57.960534245827155
+Equatorial Guinea,2005-01-01,57.565775335973896
+Eritrea,2005-01-01,58.333924754689356
+Eswatini,2005-01-01,46.76146048939492
+Ethiopia,2005-01-01,51.88623655190682
+Gambia,2005-01-01,60.04352643183821
+Guinea,2005-01-01,55.264037199896144
+Guinea-Bissau,2005-01-01,52.310604762312764
+Haiti,2005-01-01,58.82165107449115
+Laos,2005-01-01,61.78310714462647
+Lesotho,2005-01-01,47.88429639562704
+Liberia,2005-01-01,51.67366555895846
+Madagascar,2005-01-01,58.77366937066039
+Malawi,2005-01-01,46.40604215510865
+Mali,2005-01-01,54.73915440973033
+Mozambique,2005-01-01,49.95560571523824
+Nepal,2005-01-01,66.94850832625406
+Niger,2005-01-01,52.3499072208605
+Nigeria,2005-01-01,47.512491554765596
+Rwanda,2005-01-01,44.727913700753774
+Senegal,2005-01-01,61.774279242968376
+Sierra Leone,2005-01-01,44.556440477959804
+Somalia,2005-01-01,49.238384445941506
+South Sudan,2005-01-01,41.98099546176007
+Sudan,2005-01-01,55.917008421546605
+Tanzania,2005-01-01,53.12509685303127
+Timor,2005-01-01,61.16706750292645
+Togo,2005-01-01,56.07081821762056
+Uganda,2005-01-01,47.144936761550426
+Western Sahara,2005-01-01,68.32741436780162
+Yemen,2005-01-01,67.50494438495429
+Zambia,2005-01-01,42.37858646614353
+Afghanistan,2006-01-01,59.187394117112845
+Angola,2006-01-01,47.82950280507059
+Benin,2006-01-01,59.323120926990605
+Bhutan,2006-01-01,67.91579619721304
+Burkina Faso,2006-01-01,52.684804337919296
+Burundi,2006-01-01,48.99272832169233
+Cambodia,2006-01-01,67.83013228041705
+Cameroon,2006-01-01,52.533205056697376
+Central African Republic,2006-01-01,43.718253928161346
+Chad,2006-01-01,48.68727649888202
+Comoros,2006-01-01,61.4177243738582
+Cote d'Ivoire,2006-01-01,49.90831763803637
+Democratic Republic of Congo,2006-01-01,53.106103311482414
+Djibouti,2006-01-01,58.15609895525165
+Equatorial Guinea,2006-01-01,58.30273131660098
+Eritrea,2006-01-01,58.96993570550349
+Eswatini,2006-01-01,45.842975810053034
+Ethiopia,2006-01-01,52.382946133230895
+Gambia,2006-01-01,60.69748532569462
+Guinea,2006-01-01,55.890316331167135
+Guinea-Bissau,2006-01-01,52.76342450182248
+Haiti,2006-01-01,59.15585636765057
+Laos,2006-01-01,62.44756945540139
+Lesotho,2006-01-01,47.19360474087065
+Liberia,2006-01-01,52.175637194789886
+Madagascar,2006-01-01,59.17061255485959
+Malawi,2006-01-01,46.529938700412146
+Mali,2006-01-01,55.46517734017909
+Mozambique,2006-01-01,50.38206372423528
+Nepal,2006-01-01,67.9118105183217
+Niger,2006-01-01,53.149008645142466
+Nigeria,2006-01-01,47.56488574498184
+Rwanda,2006-01-01,44.56426906606327
+Senegal,2006-01-01,62.37805544739682
+Sierra Leone,2006-01-01,44.500036987868924
+Somalia,2006-01-01,49.39328591923106
+South Sudan,2006-01-01,42.666400351968136
+Sudan,2006-01-01,56.29764269453123
+Tanzania,2006-01-01,53.19856022563745
+Timor,2006-01-01,62.78807967893048
+Togo,2006-01-01,56.22959156327256
+Uganda,2006-01-01,47.116103039218
+Western Sahara,2006-01-01,69.48620541064113
+Yemen,2006-01-01,68.26199892530256
+Zambia,2006-01-01,41.692304678249826
+Afghanistan,2007-01-01,60.1126482588087
+Angola,2007-01-01,48.12237790023645
+Benin,2007-01-01,59.781770292022095
+Bhutan,2007-01-01,68.77100250634865
+Burkina Faso,2007-01-01,52.91949345928846
+Burundi,2007-01-01,49.27911829324298
+Cambodia,2007-01-01,69.17760434542318
+Cameroon,2007-01-01,52.300689975450226
+Central African Republic,2007-01-01,43.19274868139175
+Chad,2007-01-01,48.90479853157466
+Comoros,2007-01-01,61.799115713895816
+Cote d'Ivoire,2007-01-01,49.565120348122896
+Democratic Republic of Congo,2007-01-01,53.43867984721367
+Djibouti,2007-01-01,58.348111402087135
+Equatorial Guinea,2007-01-01,59.05634536607084
+Eritrea,2007-01-01,59.61450822605099
+Eswatini,2007-01-01,44.88705004371694
+Ethiopia,2007-01-01,52.88995339987749
+Gambia,2007-01-01,61.35744979953874
+Guinea,2007-01-01,56.52743853638944
+Guinea-Bissau,2007-01-01,53.22270629411996
+Haiti,2007-01-01,59.490731717885204
+Laos,2007-01-01,63.12225465043098
+Lesotho,2007-01-01,46.47638263763742
+Liberia,2007-01-01,52.68876758800648
+Madagascar,2007-01-01,59.571330900232155
+Malawi,2007-01-01,46.65010622619715
+Mali,2007-01-01,56.200579708358816
+Mozambique,2007-01-01,50.81885008412671
+Nepal,2007-01-01,68.89164510770624
+Niger,2007-01-01,53.96846864166979
+Nigeria,2007-01-01,47.61203798526893
+Rwanda,2007-01-01,44.39619082018641
+Senegal,2007-01-01,62.98800904499372
+Sierra Leone,2007-01-01,44.43298602432026
+Somalia,2007-01-01,49.55080385362765
+South Sudan,2007-01-01,43.37211588155338
+Sudan,2007-01-01,56.688275663512556
+Tanzania,2007-01-01,53.26769939436629
+Timor,2007-01-01,64.45138476559883
+Togo,2007-01-01,56.38456574549282
+Uganda,2007-01-01,47.08465636655663
+Western Sahara,2007-01-01,70.66721623965276
+Yemen,2007-01-01,69.02195888528914
+Zambia,2007-01-01,40.9845336326206
+Afghanistan,2008-01-01,61.053491258297974
+Angola,2008-01-01,48.42002478766169
+Benin,2008-01-01,60.24212747147242
+Bhutan,2008-01-01,69.63291132074684
+Burkina Faso,2008-01-01,53.15062028727407
+Burundi,2008-01-01,49.57262583000454
+Cambodia,2008-01-01,70.55794567621813
+Cameroon,2008-01-01,52.048820906030805
+Central African Republic,2008-01-01,42.64344293852771
+Chad,2008-01-01,49.12350247845815
+Comoros,2008-01-01,62.1785256854178
+Cote d'Ivoire,2008-01-01,49.19864201397505
+Democratic Republic of Congo,2008-01-01,53.77528310211564
+Djibouti,2008-01-01,58.536571586333615
+Equatorial Guinea,2008-01-01,59.82661748438348
+Eritrea,2008-01-01,60.26764231633185
+Eswatini,2008-01-01,43.89368319038664
+Ethiopia,2008-01-01,53.40725835184659
+Gambia,2008-01-01,62.02341985337056
+Guinea,2008-01-01,57.17540381556306
+Guinea-Bissau,2008-01-01,53.688450139205216
+Haiti,2008-01-01,59.82627712519506
+Laos,2008-01-01,63.80716272971523
+Lesotho,2008-01-01,45.73263008592737
+Liberia,2008-01-01,53.21305673860824
+Madagascar,2008-01-01,59.975824406778095
+Malawi,2008-01-01,46.766544732463665
+Mali,2008-01-01,56.94536151426952
+Mozambique,2008-01-01,51.26596479491252
+Nepal,2008-01-01,69.88801209440769
+Niger,2008-01-01,54.80828721044249
+Nigeria,2008-01-01,47.65394827562689
+Rwanda,2008-01-01,44.22367896312322
+Senegal,2008-01-01,63.60414003575907
+Sierra Leone,2008-01-01,44.355287587313775
+Somalia,2008-01-01,49.71093824913126
+South Sudan,2008-01-01,44.09814205051579
+Sudan,2008-01-01,57.0889073284906
+Tanzania,2008-01-01,53.332514359217804
+Timor,2008-01-01,66.15698276293149
+Togo,2008-01-01,56.53574076428135
+Uganda,2008-01-01,47.05059674356632
+Western Sahara,2008-01-01,71.8704468548365
+Yemen,2008-01-01,69.78482426491401
+Zambia,2008-01-01,40.255273329255814
+Afghanistan,2009-01-01,62.0106927307377
+Angola,2009-01-01,48.723213082503335
+Benin,2009-01-01,60.70496208049862
+Bhutan,2009-01-01,70.50229225556464
+Burkina Faso,2009-01-01,53.37895443703317
+Burundi,2009-01-01,49.87402054713404
+Cambodia,2009-01-01,71.97192588795895
+Cameroon,2009-01-01,51.77836746359616
+Central African Republic,2009-01-01,42.071106314726265
+Chad,2009-01-01,49.34415795468952
+Comoros,2009-01-01,62.556723903581194
+Cote d'Ivoire,2009-01-01,48.80965225074986
+Democratic Republic of Congo,2009-01-01,54.11668269134534
+Djibouti,2009-01-01,58.72224912314812
+Equatorial Guinea,2009-01-01,60.61431728669592
+Eritrea,2009-01-01,60.93010759150311
+Eswatini,2009-01-01,42.86364486521914
+Ethiopia,2009-01-01,53.93563060429524
+Gambia,2009-01-01,62.69616510234712
+Guinea,2009-01-01,57.83498178384502
+Guinea-Bissau,2009-01-01,54.16142565223527
+Haiti,2009-01-01,60.163262204737165
+Laos,2009-01-01,64.50306330841116
+Lesotho,2009-01-01,44.96311670089753
+Liberia,2009-01-01,53.7492742617522
+Madagascar,2009-01-01,60.38486268965443
+Malawi,2009-01-01,46.88002383436871
+Mali,2009-01-01,57.70029237306823
+Mozambique,2009-01-01,51.72417747174975
+Nepal,2009-01-01,70.90168109358306
+Niger,2009-01-01,55.66923396661757
+Nigeria,2009-01-01,47.69138623121273
+Rwanda,2009-01-01,44.0475031100307
+Senegal,2009-01-01,64.2272180348499
+Sierra Leone,2009-01-01,44.26771129200652
+Somalia,2009-01-01,49.87445872089893
+South Sudan,2009-01-01,44.84524847401241
+Sudan,2009-01-01,57.500307304622375
+Tanzania,2009-01-01,53.393774735349005
+Timor,2009-01-01,67.90564328608546
+Togo,2009-01-01,56.68388623479516
+Uganda,2009-01-01,47.0146937854041
+Western Sahara,2009-01-01,73.09666687134938
+Yemen,2009-01-01,70.55136467933418
+Zambia,2009-01-01,39.50529338331254
+Afghanistan,2010-01-01,62.98271344581383
+Angola,2010-01-01,49.03040355444733
+Benin,2010-01-01,61.16873488878662
+Bhutan,2010-01-01,71.377606080488
+Burkina Faso,2010-01-01,53.6029566782517
+Burundi,2010-01-01,50.18176321431742
+Cambodia,2010-01-01,73.41800575033156
+Cameroon,2010-01-01,51.48779041783222
+Central African Republic,2010-01-01,41.47419957967336
+Chad,2010-01-01,49.56522572995472
+Comoros,2010-01-01,62.93217113807192
+Cote d'Ivoire,2010-01-01,48.396611828133274
+Democratic Republic of Congo,2010-01-01,54.461339384588726
+Djibouti,2010-01-01,58.90360478221659
+Equatorial Guinea,2010-01-01,61.41790554269411
+Eritrea,2010-01-01,61.60036482125071
+Eswatini,2010-01-01,41.7953958379004
+Ethiopia,2010-01-01,54.47353092690936
+Gambia,2010-01-01,63.37414631615435
+Guinea,2010-01-01,58.504633210921284
+Guinea-Bissau,2010-01-01,54.64009360289607
+Haiti,2010-01-01,60.50014772619747
+Laos,2010-01-01,65.20841715620473
+Lesotho,2010-01-01,44.16630325223383
+Liberia,2010-01-01,54.295880927124315
+Madagascar,2010-01-01,60.796906518547125
+Malawi,2010-01-01,46.989004301598236
+Mali,2010-01-01,58.46383305444089
+Mozambique,2010-01-01,52.19194888432434
+Nepal,2010-01-01,71.93111287491833
+Niger,2010-01-01,56.54976967988099
+Nigeria,2010-01-01,47.722812621712414
+Rwanda,2010-01-01,43.866124030594825
+Senegal,2010-01-01,64.85570381195217
+Sierra Leone,2010-01-01,44.16871790808443
+Somalia,2010-01-01,50.039826038616596
+South Sudan,2010-01-01,45.61189592172918
+Sudan,2010-01-01,57.92093636159384
+Tanzania,2010-01-01,53.44994129244586
+Timor,2010-01-01,69.69582710474675
+Togo,2010-01-01,56.827462926720216
+Uganda,2010-01-01,46.975408261755916
+Western Sahara,2010-01-01,74.34433705887737
+Yemen,2010-01-01,71.32004089823563
+Zambia,2010-01-01,38.7330545644767
+Afghanistan,2011-01-01,63.970323018683395
+Angola,2011-01-01,49.34236581865072
+Benin,2011-01-01,61.634215511493466
+Bhutan,2011-01-01,72.25962241067396
+Burkina Faso,2011-01-01,53.8233966260867
+Burundi,2011-01-01,50.49662344671172
+Cambodia,2011-01-01,74.896954878493
+Cameroon,2011-01-01,51.177859383896035
+Central African Republic,2011-01-01,40.85349234852602
+Chad,2011-01-01,49.787475419410775
+Comoros,2011-01-01,63.305637004047036
+Cote d'Ivoire,2011-01-01,47.960290361282325
+Democratic Republic of Congo,2011-01-01,54.81002279700283
+Djibouti,2011-01-01,59.081408178696066
+Equatorial Guinea,2011-01-01,62.23815186753508
+Eritrea,2011-01-01,62.27918362073168
+Eswatini,2011-01-01,40.68970572358745
+Ethiopia,2011-01-01,55.02172893484601
+Gambia,2011-01-01,64.0581331099493
+Guinea,2011-01-01,59.18512771194886
+Guinea-Bissau,2011-01-01,55.12522360634466
+Haiti,2011-01-01,60.837703304733
+Laos,2011-01-01,65.92399388825298
+Lesotho,2011-01-01,43.34295935509332
+Liberia,2011-01-01,54.8536463498816
+Madagascar,2011-01-01,61.2127255086132
+Malawi,2011-01-01,47.094255749309276
+Mali,2011-01-01,59.23675317354453
+Mozambique,2011-01-01,52.67004864779332
+Nepal,2011-01-01,72.9770770535705
+Niger,2011-01-01,57.45066396538978
+Nigeria,2011-01-01,47.74899706228296
+Rwanda,2011-01-01,43.680311339972604
+Senegal,2011-01-01,65.4903669822229
+Sierra Leone,2011-01-01,44.05907705070456
+Somalia,2011-01-01,50.207809817441294
+South Sudan,2011-01-01,46.39885400882312
+Sudan,2011-01-01,58.35156411456202
+Tanzania,2011-01-01,53.50178364566538
+Timor,2011-01-01,71.52830383407235
+Togo,2011-01-01,56.96724045521355
+Uganda,2011-01-01,46.9335097877788
+Western Sahara,2011-01-01,75.61422703257747
+Yemen,2011-01-01,72.09162253677538
+Zambia,2011-01-01,37.93932648790535
+Afghanistan,2012-01-01,64.97352144934636
+Angola,2012-01-01,49.65909987511346
+Benin,2012-01-01,62.10140394861913
+Bhutan,2012-01-01,73.14834124612247
+Burkina Faso,2012-01-01,54.04027428053812
+Burundi,2012-01-01,50.818601244316916
+Cambodia,2012-01-01,76.40877327244326
+Cameroon,2012-01-01,50.84857436178757
+Central African Republic,2012-01-01,40.208984621284216
+Chad,2012-01-01,50.010907023057655
+Comoros,2012-01-01,63.67712150150649
+Cote d'Ivoire,2012-01-01,47.50068785019698
+Democratic Republic of Congo,2012-01-01,55.16273292858763
+Djibouti,2012-01-01,59.25565931258651
+Equatorial Guinea,2012-01-01,63.075056261218805
+Eritrea,2012-01-01,62.966563989945996
+Eswatini,2012-01-01,39.54657452228028
+Ethiopia,2012-01-01,55.58022462810515
+Gambia,2012-01-01,64.74812548373193
+Guinea,2012-01-01,59.87646528692773
+Guinea-Bissau,2012-01-01,55.61681566258099
+Haiti,2012-01-01,61.175928940343724
+Laos,2012-01-01,66.64979350455586
+Lesotho,2012-01-01,42.49308500947596
+Liberia,2012-01-01,55.42257053002404
+Madagascar,2012-01-01,61.63231965985261
+Malawi,2012-01-01,47.1957781775018
+Mali,2012-01-01,60.01905273037913
+Mozambique,2012-01-01,53.15847676215668
+Nepal,2012-01-01,74.03957362953955
+Niger,2012-01-01,58.37191682314391
+Nigeria,2012-01-01,47.76993955292434
+Rwanda,2012-01-01,43.49006503816403
+Senegal,2012-01-01,66.13120754566205
+Sierra Leone,2012-01-01,43.938788719866864
+Somalia,2012-01-01,50.378410057373
+South Sudan,2012-01-01,47.206122735294215
+Sudan,2012-01-01,58.79219056352689
+Tanzania,2012-01-01,53.549301795007544
+Timor,2012-01-01,73.40307347406224
+Togo,2012-01-01,57.10321882027512
+Uganda,2012-01-01,46.88899836347273
+Western Sahara,2012-01-01,76.9063367924497
+Yemen,2012-01-01,72.86610959495337
+Zambia,2012-01-01,37.124109153598425
+Afghanistan,2013-01-01,65.9930783529598
+Angola,2013-01-01,49.98137533899264
+Benin,2013-01-01,62.57106981532069
+Bhutan,2013-01-01,74.04453220199062
+Burkina Faso,2013-01-01,54.25435925676305
+Burundi,2013-01-01,51.148466222290075
+Cambodia,2013-01-01,77.95423054733939
+Cameroon,2013-01-01,50.50070496666389
+Central African Republic,2013-01-01,39.54144601310503
+Chad,2013-01-01,50.23629015605245
+Comoros,2013-01-01,64.04739424560738
+Cote d'Ivoire,2013-01-01,47.01857391003432
+Democratic Republic of Congo,2013-01-01,55.52023939450019
+Djibouti,2013-01-01,59.427127799045
+Equatorial Guinea,2013-01-01,63.929388338902356
+Eritrea,2013-01-01,63.66327554405074
+Eswatini,2013-01-01,38.36677184913594
+Ethiopia,2013-01-01,56.14978762184385
+Gambia,2013-01-01,65.44489305265932
+Guinea,2013-01-01,60.57941555101498
+Guinea-Bissau,2013-01-01,56.115639386762155
+Haiti,2013-01-01,61.51559424818673
+Laos,2013-01-01,67.38658562027045
+Lesotho,2013-01-01,41.617449830538845
+Liberia,2013-01-01,56.00342308270871
+Madagascar,2013-01-01,62.05645858742247
+Malawi,2013-01-01,47.294341201332884
+Mali,2013-01-01,60.81150134010176
+Mozambique,2013-01-01,53.65800284257148
+Nepal,2013-01-01,75.11937221798257
+Niger,2013-01-01,59.31429786830047
+Nigeria,2013-01-01,47.78640970879364
+Rwanda,2013-01-01,43.296154740326166
+Senegal,2013-01-01,66.77899511742672
+Sierra Leone,2013-01-01,43.80862253072842
+Somalia,2013-01-01,50.5523963735688
+South Sudan,2013-01-01,48.03447171629955
+Sudan,2013-01-01,59.24358532364552
+Tanzania,2013-01-01,53.593265355629434
+Timor,2013-01-01,75.32090563987349
+Togo,2013-01-01,57.236167637062
+Uganda,2013-01-01,46.84264360399477
+Western Sahara,2013-01-01,78.22143595365108
+Yemen,2013-01-01,73.64427168792673
+Zambia,2013-01-01,36.288172176713026
+Afghanistan,2014-01-01,67.02745449920963
+Angola,2014-01-01,50.30765297997415
+Benin,2014-01-01,63.041673881284034
+Bhutan,2014-01-01,74.94665604796431
+Burkina Faso,2014-01-01,54.4641123244474
+Burundi,2014-01-01,51.4846791503171
+Cambodia,2014-01-01,79.53178747286734
+Cameroon,2014-01-01,50.132711968210906
+Central African Republic,2014-01-01,38.84933729367436
+Chad,2014-01-01,50.46208558808104
+Comoros,2014-01-01,64.41491600603558
+Cote d'Ivoire,2014-01-01,46.51240931048024
+Democratic Republic of Congo,2014-01-01,55.881002964426415
+Djibouti,2014-01-01,59.594274407757446
+Equatorial Guinea,2014-01-01,64.79960887027164
+Eritrea,2014-01-01,64.3677790527318
+Eswatini,2014-01-01,37.14875847384033
+Ethiopia,2014-01-01,56.728878685748015
+Gambia,2014-01-01,66.14689658641737
+Guinea,2014-01-01,61.29243927389649
+Guinea-Bissau,2014-01-01,56.62015554857404
+Haiti,2014-01-01,61.8551599979479
+Laos,2014-01-01,68.13283100508266
+Lesotho,2014-01-01,40.71451458796784
+Liberia,2014-01-01,56.594664777621496
+Madagascar,2014-01-01,62.483603061008644
+Malawi,2014-01-01,47.38840559048843
+Mali,2014-01-01,61.61255977239832
+Mozambique,2014-01-01,54.16708765872362
+Nepal,2014-01-01,76.21493358858544
+Niger,2014-01-01,60.27626787054535
+Nigeria,2014-01-01,47.79686829957676
+Rwanda,2014-01-01,43.09704121614491
+Senegal,2014-01-01,67.4321904672028
+Sierra Leone,2014-01-01,43.66703925297513
+Somalia,2014-01-01,50.72822953571456
+South Sudan,2014-01-01,48.882361721524994
+Sudan,2014-01-01,59.70420916460381
+Tanzania,2014-01-01,53.632135097216945
+Timor,2014-01-01,77.280261101192
+Togo,2014-01-01,57.36454767526011
+Uganda,2014-01-01,46.79290627903083
+Western Sahara,2014-01-01,79.55798528586755
+Yemen,2014-01-01,74.42456958538133
+Zambia,2014-01-01,35.42997632693504
+Afghanistan,2015-01-01,68.07741950325288
+Angola,2015-01-01,50.63870241321504
+Benin,2015-01-01,63.51398576166623
+Bhutan,2015-01-01,75.8554823992006
+Burkina Faso,2015-01-01,54.67030309874821
+Burundi,2015-01-01,51.82800964355504
+Cambodia,2015-01-01,81.14221366418408
+Cameroon,2015-01-01,49.745364981585666
+Central African Republic,2015-01-01,38.133428078149265
+Chad,2015-01-01,50.689062934300495
+Comoros,2015-01-01,64.78045639794817
+Cote d'Ivoire,2015-01-01,45.9829636666918
+Democratic Republic of Congo,2015-01-01,56.24579325352336
+Djibouti,2015-01-01,59.75786875388089
+Equatorial Guinea,2015-01-01,65.68648747048371
+Eritrea,2015-01-01,65.08084413114624
+Eswatini,2015-01-01,35.89330401155052
+Ethiopia,2015-01-01,57.3182674349747
+Gambia,2015-01-01,66.85490570016313
+Guinea,2015-01-01,62.01630607072933
+Guinea-Bissau,2015-01-01,57.13113376317371
+Haiti,2015-01-01,62.195395804784305
+Laos,2015-01-01,68.88929927414955
+Lesotho,2015-01-01,39.78504889692003
+Liberia,2015-01-01,57.19706522991947
+Madagascar,2015-01-01,62.9145226957682
+Malawi,2015-01-01,47.47874096012549
+Mali,2015-01-01,62.42299764242586
+Mozambique,2015-01-01,54.68650082577015
+Nepal,2015-01-01,77.32702735650523
+Niger,2015-01-01,61.258596445035586
+Nigeria,2015-01-01,47.802084940430746
+Rwanda,2015-01-01,42.893494080777316
+Senegal,2015-01-01,68.09156321014734
+Sierra Leone,2015-01-01,43.51480850176404
+Somalia,2015-01-01,50.906679158967364
+South Sudan,2015-01-01,49.75056236612763
+Sudan,2015-01-01,60.17483170155882
+Tanzania,2015-01-01,53.66668063492713
+Timor,2015-01-01,79.28190947317484
+Togo,2015-01-01,57.48912855002649
+Uganda,2015-01-01,46.74055600373795
+Western Sahara,2015-01-01,80.91675440425612
+Yemen,2015-01-01,75.20777290247422
+Zambia,2015-01-01,34.55029121942153
+Afghanistan,2016-01-01,69.14297336508957
+Angola,2016-01-01,50.97452363871531
+Benin,2016-01-01,63.98800545646724
+Bhutan,2016-01-01,76.77101125569946
+Burkina Faso,2016-01-01,54.87293157966546
+Burundi,2016-01-01,52.17845770200389
+Cambodia,2016-01-01,82.78550912128966
+Cameroon,2016-01-01,49.338664006788164
+Central African Republic,2016-01-01,37.39371836652971
+Chad,2016-01-01,50.917222194710796
+Comoros,2016-01-01,65.14401542134513
+Cote d'Ivoire,2016-01-01,45.43023697866897
+Democratic Republic of Congo,2016-01-01,56.61461026179101
+Djibouti,2016-01-01,59.91791083741532
+Equatorial Guinea,2016-01-01,66.59002413953854
+Eritrea,2016-01-01,65.80247077929403
+Eswatini,2016-01-01,34.600408462266486
+Ethiopia,2016-01-01,57.91795386952389
+Gambia,2016-01-01,67.56892039389658
+Guinea,2016-01-01,62.75101594151347
+Guinea-Bissau,2016-01-01,57.648574030561136
+Haiti,2016-01-01,62.53630166869593
+Laos,2016-01-01,69.65599042747108
+Lesotho,2016-01-01,38.82905275739539
+Liberia,2016-01-01,57.810624439602606
+Madagascar,2016-01-01,63.349217491701125
+Malawi,2016-01-01,47.56534731024405
+Mali,2016-01-01,63.24281495018438
+Mozambique,2016-01-01,55.21624234371107
+Nepal,2016-01-01,78.45565352174191
+Niger,2016-01-01,62.26128359177119
+Nigeria,2016-01-01,47.802059631355576
+Rwanda,2016-01-01,42.68551333422338
+Senegal,2016-01-01,68.75711334626034
+Sierra Leone,2016-01-01,43.35193027709515
+Somalia,2016-01-01,51.08774524332719
+South Sudan,2016-01-01,50.639073650107434
+Sudan,2016-01-01,60.655452934510535
+Tanzania,2016-01-01,53.69690196875998
+Timor,2016-01-01,81.32585075582197
+Togo,2016-01-01,57.60991026136112
+Uganda,2016-01-01,46.68559277811613
+Western Sahara,2016-01-01,82.29774330881682
+Yemen,2016-01-01,75.9938816392054
+Zambia,2016-01-01,33.64911685417249
+Afghanistan,2017-01-01,70.22488569987672
+Angola,2017-01-01,51.315886271632
+Benin,2017-01-01,64.46450258084415
+Bhutan,2017-01-01,77.69401223261795
+Burkina Faso,2017-01-01,55.07276738235622
+Burundi,2017-01-01,52.536792940820696
+Cambodia,2017-01-01,84.46244345934113
+Cameroon,2017-01-01,48.91337865897545
+Central African Republic,2017-01-01,36.63097777397277
+Chad,2017-01-01,51.14733298446899
+Comoros,2017-01-01,65.5063626913835
+Cote d'Ivoire,2017-01-01,44.85499886156883
+Democratic Republic of Congo,2017-01-01,56.98822360438641
+Djibouti,2017-01-01,60.0751702735178
+Equatorial Guinea,2017-01-01,67.51098849259321
+Eritrea,2017-01-01,66.53342861233224
+Eswatini,2017-01-01,33.27084144114527
+Ethiopia,2017-01-01,58.52870760455264
+Gambia,2017-01-01,68.28971028277479
+Guinea,2017-01-01,63.497338501405984
+Guinea-Bissau,2017-01-01,58.17324596589339
+Haiti,2017-01-01,62.87864720483981
+Laos,2017-01-01,70.43367408020433
+Lesotho,2017-01-01,37.84729578455096
+Liberia,2017-01-01,58.43611202182796
+Madagascar,2017-01-01,63.788457063964465
+Malawi,2017-01-01,47.64899425600116
+Mali,2017-01-01,64.07278131083092
+Mozambique,2017-01-01,55.75708182770342
+Nepal,2017-01-01,79.60158169945255
+Niger,2017-01-01,63.2850989259092
+Nigeria,2017-01-01,47.79756198750832
+Rwanda,2017-01-01,42.47386859164014
+Senegal,2017-01-01,69.42961049069883
+Sierra Leone,2017-01-01,43.179174194125494
+Somalia,2017-01-01,51.27219740395108
+South Sudan,2017-01-01,51.54866518862145
+Sudan,2017-01-01,61.14684247861601
+Tanzania,2017-01-01,53.723568713872545
+Timor,2017-01-01,83.41285456429046
+Togo,2017-01-01,57.72766242442107
+Uganda,2017-01-01,46.628786217322414
+Western Sahara,2017-01-01,83.70172161470668
+Yemen,2017-01-01,76.78366541073191
+Zambia,2017-01-01,32.72722284634495
+Afghanistan,2018-01-01,71.32161727730025
+Angola,2018-01-01,51.66125108165103
+Benin,2018-01-01,64.94193790448284
+Bhutan,2018-01-01,78.62294609964198
+Burkina Faso,2018-01-01,55.26827127650638
+Burundi,2018-01-01,52.90147612969137
+Cambodia,2018-01-01,86.17147744802438
+Cameroon,2018-01-01,48.46796970783342
+Central African Republic,2018-01-01,35.843667070164344
+Chad,2018-01-01,51.37785607326099
+Comoros,2018-01-01,65.8659589777492
+Cote d'Ivoire,2018-01-01,44.25571008507727
+Democratic Republic of Congo,2018-01-01,57.36509405099549
+Djibouti,2018-01-01,60.22810783187422
+Equatorial Guinea,2018-01-01,68.44784129933359
+Eritrea,2018-01-01,67.27217839994677
+Eswatini,2018-01-01,31.903063717872808
+Ethiopia,2018-01-01,59.148989409746854
+Gambia,2018-01-01,69.01573613648365
+Guinea,2018-01-01,64.25373452009276
+Guinea-Bissau,2018-01-01,58.703610338856365
+Haiti,2018-01-01,63.220893182901875
+Laos,2018-01-01,71.22081100203519
+Lesotho,2018-01-01,36.83823874807267
+Liberia,2018-01-01,59.07198874628144
+Madagascar,2018-01-01,64.23070218224414
+Malawi,2018-01-01,47.728142567082735
+Mali,2018-01-01,64.91135749405139
+Mozambique,2018-01-01,56.30748004743312
+Nepal,2018-01-01,80.76327265932306
+Niger,2018-01-01,64.32850321713553
+Nigeria,2018-01-01,47.787052778574875
+Rwanda,2018-01-01,42.257020622713526
+Senegal,2018-01-01,70.10751541314873
+Sierra Leone,2018-01-01,42.995001022541004
+Somalia,2018-01-01,51.45849641052496
+South Sudan,2018-01-01,52.477797751355595
+Sudan,2018-01-01,61.64746110356114
+Tanzania,2018-01-01,53.74514163995073
+Timor,2018-01-01,85.54138166826623
+Togo,2018-01-01,57.84084580889224
+Uganda,2018-01-01,46.56859709104272
+Western Sahara,2018-01-01,85.12715009161161
+Yemen,2018-01-01,77.57558498673966
+Zambia,2018-01-01,31.78306996562484
+Afghanistan,2019-01-01,72.4339377125172
+Angola,2019-01-01,52.01138768392944
+Benin,2019-01-01,65.42108104254038
+Bhutan,2019-01-01,79.5585824719286
+Burkina Faso,2019-01-01,55.46021287727301
+Burundi,2019-01-01,53.27327688377296
+Cambodia,2019-01-01,87.91338070249644
+Cameroon,2019-01-01,48.00320676851915
+Central African Republic,2019-01-01,35.03255587026149
+Chad,2019-01-01,51.60956107624385
+Comoros,2019-01-01,66.22357389559927
+Cote d'Ivoire,2019-01-01,43.63314026435134
+Democratic Republic of Congo,2019-01-01,57.74599121677527
+Djibouti,2019-01-01,60.37749312764164
+Equatorial Guinea,2019-01-01,69.40135217491677
+Eritrea,2019-01-01,68.01948975729466
+Eswatini,2019-01-01,30.49784490760614
+Ethiopia,2019-01-01,59.779568900263584
+Gambia,2019-01-01,69.74776757018023
+Guinea,2019-01-01,65.02097361273086
+Guinea-Bissau,2019-01-01,59.240436764607125
+Haiti,2019-01-01,63.56380921803916
+Laos,2019-01-01,72.01817080812071
+Lesotho,2019-01-01,35.80265126311755
+Liberia,2019-01-01,59.719024228120105
+Madagascar,2019-01-01,64.6767224616972
+Malawi,2019-01-01,47.80356185864582
+Mali,2019-01-01,65.75931311500284
+Mozambique,2019-01-01,56.86820661805721
+Nepal,2019-01-01,81.94149601651047
+Niger,2019-01-01,65.39226608060724
+Nigeria,2019-01-01,47.7713016197123
+Rwanda,2019-01-01,42.03573904260056
+Senegal,2019-01-01,70.7915977287671
+Sierra Leone,2019-01-01,42.800180377498705
+Somalia,2019-01-01,51.64741187820587
+South Sudan,2019-01-01,53.42724095346692
+Sudan,2019-01-01,62.15807842450299
+Tanzania,2019-01-01,53.76239036215159
+Timor,2019-01-01,87.7122016829063
+Togo,2019-01-01,57.950230029931674
+Uganda,2019-01-01,46.50579501443409
+Western Sahara,2019-01-01,86.57479835468868
+Yemen,2019-01-01,78.37040998238571
+Zambia,2019-01-01,30.81742782716919
+Afghanistan,2020-01-01,73.56184700552758
+Angola,2020-01-01,52.36629607846722
+Benin,2020-01-01,65.90193199501675
+Bhutan,2020-01-01,80.5009213494778
+Burkina Faso,2020-01-01,55.64859218465608
+Burundi,2020-01-01,53.65219520306545
+Cambodia,2020-01-01,89.68815322275734
+Cameroon,2020-01-01,47.5190898410326
+Central African Republic,2020-01-01,34.19764417426419
+Chad,2020-01-01,51.84244799341756
+Comoros,2020-01-01,66.5792074449337
+Cote d'Ivoire,2020-01-01,42.98728939939104
+Democratic Republic of Congo,2020-01-01,58.13091510172577
+Djibouti,2020-01-01,60.52332616082005
+Equatorial Guinea,2020-01-01,70.3715211193427
+Eritrea,2020-01-01,68.77536268437593
+Eswatini,2020-01-01,29.055185010345234
+Ethiopia,2020-01-01,60.42044607610282
+Gambia,2020-01-01,70.4858045838645
+Guinea,2020-01-01,65.79905577932027
+Guinea-Bissau,2020-01-01,59.783725243145646
+Haiti,2020-01-01,63.90739531025166
+Laos,2020-01-01,72.8257534984609
+Lesotho,2020-01-01,34.74053332968562
+Liberia,2020-01-01,60.37721846734393
+Madagascar,2020-01-01,65.12651790232361
+Malawi,2020-01-01,47.87525213069041
+Mali,2020-01-01,66.61664817368526
+Mozambique,2020-01-01,57.439261539575675
+Nepal,2020-01-01,83.13625177101478
+Niger,2020-01-01,66.47638751632431
+Nigeria,2020-01-01,47.750308510920576
+Rwanda,2020-01-01,41.81002385130125
+Senegal,2020-01-01,71.48185743755391
+Sierra Leone,2020-01-01,42.59471225899861
+Somalia,2020-01-01,51.838943806993804
+South Sudan,2020-01-01,54.39699479495542
+Sudan,2020-01-01,62.67869444144154
+Tanzania,2020-01-01,53.77531488047511
+Timor,2020-01-01,89.92531460821067
+Togo,2020-01-01,58.055815087539365
+Uganda,2020-01-01,46.44037998749651
+Western Sahara,2020-01-01,88.04466640393787
+Yemen,2020-01-01,79.16814039767004
+Zambia,2020-01-01,29.83029643097801
+Afghanistan,2021-01-01,74.70611477148844
+Angola,2021-01-01,52.72674588042143
+Benin,2021-01-01,66.385260377069
+Bhutan,2021-01-01,81.45073234744663
+Burkina Faso,2021-01-01,55.83417881381266
+Burundi,2021-01-01,54.03900070272591
+Cambodia,2021-01-01,91.4965646239641
+Cameroon,2021-01-01,47.01638854053084
+Central African Republic,2021-01-01,33.339701597329494
+Chad,2021-01-01,52.07728643993916
+Comoros,2021-01-01,66.93362924090957
+Cote d'Ivoire,2021-01-01,42.31892710535341
+Democratic Republic of Congo,2021-01-01,58.520635321004015
+Djibouti,2021-01-01,60.666376546566504
+Equatorial Guinea,2021-01-01,71.35911774776847
+Eritrea,2021-01-01,69.5405667963476
+Eswatini,2021-01-01,27.575853641247182
+Ethiopia,2021-01-01,61.072390552421616
+Gambia,2021-01-01,71.23061679269354
+Guinea,2021-01-01,66.58875063501804
+Guinea-Bissau,2021-01-01,60.33424538962899
+Haiti,2021-01-01,64.25242107469643
+Laos,2021-01-01,73.64432868821278
+Lesotho,2021-01-01,33.65265456293389
+Liberia,2021-01-01,61.04734107910998
+Madagascar,2021-01-01,65.58085811928045
+Malawi,2021-01-01,47.94398299837355
+Mali,2021-01-01,67.4841322852557
+Mozambique,2021-01-01,58.02141442714559
+Nepal,2021-01-01,84.34830953799303
+Niger,2021-01-01,67.58163713944377
+Nigeria,2021-01-01,47.72484306735675
+Rwanda,2021-01-01,41.58064466397265
+Senegal,2021-01-01,72.17906415466624
+Sierra Leone,2021-01-01,42.37936628219775
+Somalia,2021-01-01,52.033861812045814
+South Sudan,2021-01-01,55.38782889097813
+Sudan,2021-01-01,63.21007876953385
+Tanzania,2021-01-01,53.784684810078346
+Timor,2021-01-01,92.18149005933643
+Togo,2021-01-01,58.15837059687237
+Uganda,2021-01-01,46.37312162538706
+Western Sahara,2021-01-01,89.53752385451621
+Yemen,2021-01-01,79.96954584774971
+Zambia,2021-01-01,28.822445392208344
