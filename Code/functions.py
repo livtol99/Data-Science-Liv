@@ -6,7 +6,7 @@ from sklearn.linear_model import LinearRegression
 
 
 def create_splits(df):
-    first_test_date = pd.Timestamp('2004-01-01')
+    first_test_date = pd.Timestamp('2012-01-01')
     train_clus2, test_clus2 = [], []
 
     # Group the data by 'Country' column
