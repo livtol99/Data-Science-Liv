@@ -1,0 +1,238 @@
+Country,sMAPE,Cluster
+Solomon Islands,0.6253012625908587,Cluster 1
+Mauritania,1.0468520729150128,Cluster 1
+Libya,1.1541420970921688,Cluster 1
+Mongolia,1.217554446022973,Cluster 1
+Papua New Guinea,1.3056398141351,Cluster 1
+Marshall Islands,1.60660303933249,Cluster 1
+Tuvalu,1.7836663344610502,Cluster 1
+Tajikistan,1.888793085136468,Cluster 1
+Gabon,1.9095054177461843,Cluster 1
+Myanmar,2.397538149252544,Cluster 1
+Pakistan,2.7435459759476024,Cluster 1
+Indonesia,3.9133112818859894,Cluster 1
+Kiribati,4.155909466547987,Cluster 1
+Nicaragua,4.27508921609031,Cluster 1
+Honduras,4.2862206973274874,Cluster 1
+Ghana,4.981636856708451,Cluster 1
+Sao Tome and Principe,5.065918505202865,Cluster 1
+Oman,5.294465440670831,Cluster 1
+India,5.3666454739690765,Cluster 1
+Morocco,5.712984123729398,Cluster 1
+Iran,6.057181003655277,Cluster 1
+Egypt,6.0686281485753755,Cluster 1
+Nauru,6.3059158275352925,Cluster 1
+Iraq,6.806855076025029,Cluster 1
+Guatemala,7.407206394212159,Cluster 1
+Bangladesh,7.949418151765486,Cluster 1
+Congo,9.34683719375007,Cluster 1
+Maldives,9.632210930571986,Cluster 1
+Palau,9.890211883301387,Cluster 1
+Bolivia,10.159338203823827,Cluster 1
+Kenya,11.443078903088866,Cluster 1
+El Salvador,12.388252853600187,Cluster 1
+Algeria,12.973781750417679,Cluster 1
+South Africa,17.08037471056635,Cluster 1
+Namibia,19.725941950952617,Cluster 1
+Botswana,22.079209698685137,Cluster 1
+Zimbabwe,40.3848507106532,Cluster 1
+Togo,0.5230068081227666,Cluster 2
+Burkina Faso,0.900542509777694,Cluster 2
+Haiti,0.9505572791603351,Cluster 2
+Nigeria,1.2146584144488337,Cluster 2
+Mozambique,1.4165219936491396,Cluster 2
+Somalia,1.43833767355406,Cluster 2
+Djibouti,1.4902971694013234,Cluster 2
+Burundi,1.843048427072294,Cluster 2
+Ethiopia,2.0492853387468126,Cluster 2
+Chad,2.1072699226556804,Cluster 2
+Angola,2.522810091433796,Cluster 2
+Guinea-Bissau,2.96296323731597,Cluster 2
+Democratic Republic of Congo,2.9864872341690876,Cluster 2
+Comoros,3.8477942385216144,Cluster 2
+Sudan,4.071038958520791,Cluster 2
+Rwanda,4.910546046225445,Cluster 2
+Madagascar,4.937466419204959,Cluster 2
+Senegal,5.206777747915395,Cluster 2
+Uganda,5.469789291301909,Cluster 2
+Laos,5.658256846035557,Cluster 2
+Tanzania,5.764150152404598,Cluster 2
+Malawi,5.953961937162218,Cluster 2
+Eritrea,6.585699010338472,Cluster 2
+Benin,6.738067735207961,Cluster 2
+Gambia,7.868621271617729,Cluster 2
+Cameroon,7.996976070805974,Cluster 2
+Niger,8.141275221936594,Cluster 2
+Bhutan,8.417861373873126,Cluster 2
+Guinea,8.45593574398463,Cluster 2
+Sierra Leone,8.811699593069697,Cluster 2
+Liberia,8.832728941554583,Cluster 2
+Mali,9.024096031923454,Cluster 2
+Equatorial Guinea,9.068449537258525,Cluster 2
+Cote d'Ivoire,10.277512278588045,Cluster 2
+Afghanistan,11.486774944696739,Cluster 2
+Nepal,11.971484571472505,Cluster 2
+South Sudan,12.357764646106276,Cluster 2
+Western Sahara,12.833291938232225,Cluster 2
+Yemen,13.147036265086037,Cluster 2
+Cambodia,14.708139053754769,Cluster 2
+Central African Republic,15.744481703609464,Cluster 2
+Zambia,19.022432514575634,Cluster 2
+Timor,19.379729128595805,Cluster 2
+Lesotho,27.8192213697802,Cluster 2
+Eswatini,39.719938194224994,Cluster 2
+Japan,0.26244194369767376,Cluster 3
+Cyprus,0.34851709438400097,Cluster 3
+Spain,0.41224084831675817,Cluster 3
+Denmark,0.47389984862140033,Cluster 3
+Hong Kong,0.6546830037275118,Cluster 3
+Slovenia,0.7253789598848747,Cluster 3
+Bermuda,0.8286030767701781,Cluster 3
+American Samoa,0.8782608956852062,Cluster 3
+Saint Martin (French part),0.8834510025826553,Cluster 3
+Malta,0.8947363426418987,Cluster 3
+Croatia,0.9349061865744283,Cluster 3
+Costa Rica,0.9640273150941641,Cluster 3
+United States Virgin Islands,1.0140219493523133,Cluster 3
+Curacao,1.0184916604124148,Cluster 3
+Sint Maarten (Dutch part),1.0791553017523798,Cluster 3
+Singapore,1.1810508743017896,Cluster 3
+Portugal,1.2857628661559757,Cluster 3
+Puerto Rico,1.2963674007283619,Cluster 3
+Greece,1.3432292742570333,Cluster 3
+Ireland,1.3492088466622403,Cluster 3
+Hungary,1.4305209082745751,Cluster 3
+Bonaire Sint Eustatius and Saba,1.455096210856013,Cluster 3
+Aruba,1.500464513826338,Cluster 3
+Slovakia,1.503685260140655,Cluster 3
+Serbia,1.515460393519125,Cluster 3
+Finland,1.588173154450872,Cluster 3
+Netherlands,1.632063508717905,Cluster 3
+Norway,1.6575657509518165,Cluster 3
+Saint Barthlemy,1.6683186319059482,Cluster 3
+Taiwan,1.7017790924468947,Cluster 3
+Poland,1.7103337579239961,Cluster 3
+Cuba,1.7805010491449427,Cluster 3
+Estonia,1.8473760747126489,Cluster 3
+Martinique,1.8945859694225842,Cluster 3
+Latvia,1.9049246705331264,Cluster 3
+Czechia,1.9477748591434327,Cluster 3
+Vatican,1.9594303434665672,Cluster 3
+Switzerland,1.9650256828093053,Cluster 3
+Canada,2.071754551606363,Cluster 3
+France,2.0897159261230307,Cluster 3
+Macao,2.184787393974629,Cluster 3
+Sweden,2.2191301346925454,Cluster 3
+Belgium,2.220268091388449,Cluster 3
+Saint Pierre and Miquelon,2.3697528404874375,Cluster 3
+Italy,2.5265693614648996,Cluster 3
+San Marino,2.603994196218476,Cluster 3
+Romania,2.664250182796598,Cluster 3
+United Kingdom,2.742139921089331,Cluster 3
+Iceland,2.785311646174258,Cluster 3
+Andorra,2.9076608879264305,Cluster 3
+Austria,2.939870217713348,Cluster 3
+Germany,2.9671071667645026,Cluster 3
+Montenegro,3.0412284506568974,Cluster 3
+Israel,3.047033073473241,Cluster 3
+United States,3.100796260007686,Cluster 3
+Luxembourg,3.1255693102380953,Cluster 3
+New Zealand,3.2296094746193535,Cluster 3
+Lithuania,3.281178773605803,Cluster 3
+Bulgaria,3.2934241187819966,Cluster 3
+Barbados,3.337623474956301,Cluster 3
+Uruguay,3.415723293789827,Cluster 3
+Australia,3.416652573130806,Cluster 3
+Argentina,3.7069769571846893,Cluster 3
+Monaco,3.900496453016501,Cluster 3
+Antigua and Barbuda,4.054361214545503,Cluster 3
+Gibraltar,4.282735113646267,Cluster 3
+Isle of Man,4.547086642540735,Cluster 3
+Guernsey,4.5505284991821,Cluster 3
+Faeroe Islands,5.1635290580336095,Cluster 3
+Northern Mariana Islands,5.277839656464361,Cluster 3
+Jersey,5.31286998848349,Cluster 3
+Liechtenstein,5.7492082279521215,Cluster 3
+Saint Helena,5.949289240467726,Cluster 3
+Ukraine,7.5673771468052236,Cluster 3
+Belarus,8.782072891103292,Cluster 3
+Montserrat,0.29329799024819964,Cluster 4
+Fiji,0.471907361733787,Cluster 4
+Reunion,0.7080029346974851,Cluster 4
+Uzbekistan,0.7114897661556233,Cluster 4
+Malaysia,0.7303920891911261,Cluster 4
+Moldova,0.7722783778460847,Cluster 4
+Thailand,0.8620965305556737,Cluster 4
+Grenada,0.8697844609820787,Cluster 4
+Georgia,0.9143979779686771,Cluster 4
+Guadeloupe,0.9275820530238702,Cluster 4
+Kyrgyzstan,0.9412810796959137,Cluster 4
+Jamaica,0.9592057317152933,Cluster 4
+Bosnia and Herzegovina,1.0288398926295386,Cluster 4
+United Arab Emirates,1.0434296340115758,Cluster 4
+French Guiana,1.0468052139114745,Cluster 4
+Venezuela,1.1806175311224265,Cluster 4
+Tonga,1.2065056096454247,Cluster 4
+Colombia,1.4562767073889598,Cluster 4
+Mayotte,1.5100164920318857,Cluster 4
+Panama,1.5315721446788917,Cluster 4
+Turkmenistan,1.5507803960315303,Cluster 4
+Suriname,1.5776772944206714,Cluster 4
+Brunei,1.588837059361667,Cluster 4
+Saint Lucia,1.605847980458468,Cluster 4
+Trinidad and Tobago,1.6240576118612924,Cluster 4
+Guyana,1.7528774228991622,Cluster 4
+Kuwait,1.771205169188265,Cluster 4
+Albania,1.862300149896575,Cluster 4
+Qatar,2.0046353608964917,Cluster 4
+Azerbaijan,2.0099875116028363,Cluster 4
+North Macedonia,2.193083785680806,Cluster 4
+British Virgin Islands,2.2160815169215784,Cluster 4
+Cayman Islands,2.25672494674403,Cluster 4
+China,2.2578335123188222,Cluster 4
+Jordan,2.269948988198793,Cluster 4
+Saint Vincent and the Grenadines,2.2704191565114544,Cluster 4
+Samoa,2.469089497658194,Cluster 4
+Micronesia (country),2.7985577600465112,Cluster 4
+Seychelles,2.8395539461764465,Cluster 4
+Kazakhstan,2.8466700629142934,Cluster 4
+Mauritius,2.916084829179023,Cluster 4
+New Caledonia,2.973264729742917,Cluster 4
+Armenia,3.307007671413324,Cluster 4
+Greenland,3.319796484052818,Cluster 4
+Paraguay,3.3791640730638943,Cluster 4
+Dominican Republic,3.4854181851492005,Cluster 4
+Kosovo,3.5993188328792933,Cluster 4
+Bahamas,3.627733367354179,Cluster 4
+Turks and Caicos Islands,3.8764038405390657,Cluster 4
+Belize,3.913958124333021,Cluster 4
+Sri Lanka,4.030105131021988,Cluster 4
+South Korea,4.033644501522136,Cluster 4
+Turkey,4.136420358637894,Cluster 4
+Dominica,4.1646494637316245,Cluster 4
+Brazil,4.202605585430608,Cluster 4
+Tokelau,4.269563686104492,Cluster 4
+Chile,4.275589822649889,Cluster 4
+Guam,4.462153311070354,Cluster 4
+Mexico,4.482951725708295,Cluster 4
+Tunisia,4.504208258458071,Cluster 4
+Philippines,4.663992104880467,Cluster 4
+Vanuatu,4.939828850191718,Cluster 4
+Cape Verde,4.942020201180261,Cluster 4
+Saudi Arabia,5.087256299539713,Cluster 4
+Anguilla,5.119816714873111,Cluster 4
+Niue,5.440111170338624,Cluster 4
+Saint Kitts and Nevis,5.548806876018543,Cluster 4
+Palestine,5.661859491177754,Cluster 4
+Bahrain,5.9145117697554,Cluster 4
+Vietnam,5.922223252348039,Cluster 4
+French Polynesia,6.1358308737406375,Cluster 4
+Ecuador,6.559312686514758,Cluster 4
+Cook Islands,6.7439981383043,Cluster 4
+Peru,6.81933783303543,Cluster 4
+Russia,7.813316587986778,Cluster 4
+Syria,9.13537041355592,Cluster 4
+Wallis and Futuna,9.999090012898272,Cluster 4
+Lebanon,12.124709860186396,Cluster 4
+Falkland Islands,12.590558415811746,Cluster 4
+North Korea,18.916730428285078,Cluster 4
